@@ -76,7 +76,7 @@ price_cr,area_sqm,bhk,bathroom,balcony,addl_room,sector,landmark_count,has_hospi
 1.0,181.16,3,4,3,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,shree vardhman flora,gurgaon
 1.45,120.77,3,2,2,0,30,49,4,0,0,0,2,0,14,3,0,0,0,0,1,0,0,0,0,0,6,built up,low,old,afnhb jalvayu vihar,gurgaon
 1.25,132.2,3,3,0,0,89,9,1,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,built up,mid,under construction,m3m soulitude,gurgaon
-0.46,5401.48,2,2,1,0,86,8,1,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,carpet,high,under construction,pyramid elite,gurgaon
+0.46,540.1479999999999,2,2,1,0,86,8,1,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,carpet,high,under construction,pyramid elite,gurgaon
 4.5,340.95,5,5,3,1,66,5,1,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,super built up,high,new,emaar mgf palm terraces,gurgaon
 0.64,92.9,2,2,1,0,15,48,14,0,0,0,0,0,3,1,0,0,0,0,0,0,1,1,0,0,0,super built up,low,new,anamika enclave,gurgaon
 0.28,69.03,2,2,1,0,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,built up,high,new,hcbs sports ville,sohna
@@ -107,7 +107,7 @@ price_cr,area_sqm,bhk,bathroom,balcony,addl_room,sector,landmark_count,has_hospi
 0.45,54.01,2,2,1,0,86,8,1,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,carpet,mid,mid aged,pyramid elite,gurgaon
 1.2,111.28,1,2,2,0,78,10,0,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,high,under construction,raheja revanta,gurgaon
 2.1,121.7,2,2,2,0,65,9,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,super built up,high,new,m3m skycity,gurgaon
-0.45,52884.41,2,2,2,0,95,12,0,0,0,1,0,0,0,2,1,0,0,1,1,1,0,0,0,0,0,carpet,low,new,signature the roselia,gurgaon
+0.45,528.8441,2,2,2,0,95,12,0,0,0,1,0,0,0,2,1,0,0,1,1,1,0,0,0,0,0,carpet,low,new,signature the roselia,gurgaon
 0.42,69.68,2,2,1,0,4,48,13,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,carpet,low,new,not applicable,gurgaon
 1.55,144.65,3,2,3,0,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,high,new,godrej nature plus,sohna
 1.3,133.78,3,3,2,0,102,12,1,0,0,1,1,3,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,low,mid aged,ramprastha city,gurgaon
@@ -1281,12 +1281,12 @@ price_cr,area_sqm,bhk,bathroom,balcony,addl_room,sector,landmark_count,has_hospi
 2.4,198.07,3,3,2,1,81,9,1,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,super built up,high,new,dlf the ultima,gurgaon
 1.75,176.52,3,3,3,1,83,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,emaar palm gardens,gurgaon
 1.4,210.15,3,4,2,1,80,10,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,super built up,mid,old,godrej frontier,gurgaon
-0.24,4270.38,2,2,1,1,95,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,carpet,high,new,ramsons kshitij,gurgaon
+0.24,427.038,2,2,1,1,95,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,carpet,high,new,ramsons kshitij,gurgaon
 0.17,298.4,1,1,1,0,95,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,carpet,high,new,ramsons kshitij,gurgaon
-0.31,56479.1,2,2,1,1,95,5,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,carpet,low,new,ramsons kshitij,gurgaon
-0.33,5101.96,2,2,1,0,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
-0.38,5984.07,3,2,1,0,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
-0.21,3195.96,1,1,1,0,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
+0.31,564.7909999999999,2,2,1,1,95,5,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,carpet,low,new,ramsons kshitij,gurgaon
+0.33,510.196,2,2,1,0,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
+0.38,598.4069999999999,3,2,1,0,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
+0.21,319.596,1,1,1,0,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
 0.2,34.01,1,1,1,0,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
 1.2,150.5,3,3,3,1,71,15,2,1,0,0,0,2,1,0,1,0,0,0,0,1,0,2,0,0,0,super built up,mid,new,chd avenue 71,gurgaon
 1.26,112.88,2,2,3,0,102,13,1,0,0,1,1,0,0,2,1,0,0,1,0,1,0,0,1,0,0,super built up,mid,new,shapoorji pallonji joyville gurugram,gurgaon
@@ -1407,7 +1407,7 @@ price_cr,area_sqm,bhk,bathroom,balcony,addl_room,sector,landmark_count,has_hospi
 2.61,241.36,3,3,3,1,102,11,1,0,0,1,0,2,0,4,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,adani m2k oyster grande,gurgaon
 1.32,157.47,3,3,3,1,103,15,1,0,0,1,1,1,0,3,1,1,1,2,0,1,0,0,0,0,0,super built up,mid,new,indiabulls centrum park,gurgaon
 1.45,153.29,3,3,3,1,102,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,high,new,emaar gurgaon greens,gurgaon
-0.28,4534.69,1,1,2,1,33,7,1,0,0,1,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,carpet,low,new,signature the serenas,sohna
+0.28,453.46899999999994,1,1,2,1,33,7,1,0,0,1,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,carpet,low,new,signature the serenas,sohna
 0.73,117.43,2,2,3,1,33,7,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,eldeco accolade,sohna
 0.71,135.36,2,2,3,1,33,7,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,eldeco accolade,sohna
 0.66,117.43,2,2,3,1,33,7,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,eldeco accolade,sohna
@@ -1942,7 +1942,7 @@ price_cr,area_sqm,bhk,bathroom,balcony,addl_room,sector,landmark_count,has_hospi
 1.6,153.29,3,3,3,0,102,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,high,new,emaar gurgaon greens,gurgaon
 3.95,240.43,3,3,3,1,62,11,1,0,0,1,0,1,0,4,1,0,1,0,0,0,0,0,0,0,0,carpet,high,new,emaar digihomes,gurgaon
 0.38,85.94,2,2,1,0,37,4,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,built up,high,new,apex our homes,gurgaon
-0.51,47788.95,2,2,1,0,107,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,carpet,low,new,signature global solera 2,gurgaon
+0.51,477.88949999999994,2,2,1,0,107,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,carpet,low,new,signature global solera 2,gurgaon
 ,60.39,1,1,1,1,31,14,1,0,0,2,1,1,0,2,1,0,1,0,0,0,0,0,0,0,0,carpet,low,new,raheja atlantis,gurgaon
 0.41,62.25,2,2,2,1,95,12,0,0,0,1,0,0,0,2,1,0,0,1,1,1,0,0,0,0,0,built up,high,new,signature the roselia,gurgaon
 1.0,187.66,4,4,3,0,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,super built up,high,new,sare crescent parc royal greens phase 1,gurgaon
@@ -2288,7 +2288,7 @@ price_cr,area_sqm,bhk,bathroom,balcony,addl_room,sector,landmark_count,has_hospi
 0.36,37.63,1,1,1,0,111,15,2,1,0,0,2,2,2,3,0,0,1,0,0,0,0,0,0,0,0,carpet,high,new,lotus homz,gurgaon
 0.21,41.81,1,1,1,0,4,48,15,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,carpet,low,new,shreeram apartment ii,gurgaon
 0.26,27.96,1,1,2,0,104,9,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,built up,mid,new,zara aavaas,gurgaon
-0.38,5994.94,2,2,2,1,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
+0.38,599.4939999999999,2,2,2,1,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
 1.8,219.34,3,4,3,1,107,6,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,low,new,m3m woodshire,gurgaon
 4.1,235.79,3,4,3,1,36,14,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,1,0,0,0,carpet,high,new,krisumi waterfall residences,gurgaon
 1.3,146.04,2,2,3,1,79,10,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,super built up,low,new,godrej 101,gurgaon
@@ -2391,7 +2391,7 @@ price_cr,area_sqm,bhk,bathroom,balcony,addl_room,sector,landmark_count,has_hospi
 0.82,126.35,2,2,1,0,86,4,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,ansal heights 86,gurgaon
 0.4,52.86,2,2,1,0,104,9,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,zara aavaas,gurgaon
 1.15,83.61204013377927,2,2,2,0,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,high,mid aged,godrej nature plus,sohna
-0.35,68483.2,2,2,2,0,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,built up,high,new,hcbs sports ville,sohna
+0.35,684.832,2,2,2,0,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,built up,high,new,hcbs sports ville,sohna
 0.94,125.42,3,2,3,1,84,3,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,antriksh heights,gurgaon
 0.75,144.56,3,2,2,0,92,49,5,0,0,0,1,1,8,3,0,0,2,0,0,0,0,1,0,0,6,built up,high,under construction,sare green parc,gurgaon
 1.3,152.36,2,2,2,0,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
