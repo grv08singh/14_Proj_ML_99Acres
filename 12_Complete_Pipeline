@@ -1,0 +1,20 @@
+import numpy as np
+import pandas as pd
+import re
+
+import warnings as wr
+wr.filterwarnings('ignore')
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+import plotly.io as pio
+
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+from sklearn.decomposition import PCA
+from sklearn.svm import SVR
+from sklearn.metrics import r2_score, mean_squared_error
+
+# Load the dataset
+df = pd.read_csv('house_prices.csv')
