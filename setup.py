@@ -33,6 +33,7 @@ setup(
     #    'matplotlib',
     #    'seaborn'
     #]
-
+    # OR a better way is to read the requirements from a file, which is more maintainable:
+    
     install_requires=get_requirements('requirements.txt')
 )
