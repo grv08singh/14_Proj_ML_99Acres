@@ -34,17 +34,52 @@ class ModelTrainer:
 
             models = {
                 "Linear Regression": LinearRegression(),
-                "K-Neighbors Regressor": KNeighborsRegressor(),
-                "Decision Tree Regressor": DecisionTreeRegressor(),
-                "Random Forest Regressor": RandomForestRegressor(),
-                "Gradient Boosting Regressor": GradientBoostingRegressor(),
-                "AdaBoost Regressor": AdaBoostRegressor(),
-                "XGB Regressor": XGBRegressor(),
-                "CatBoost Regressor": CatBoostRegressor(verbose=False),
+                "KNN": KNeighborsRegressor(),
+                "Random Forest": RandomForestRegressor(),
                 "SVR": SVR(),
+                "Gradient Boosting": GradientBoostingRegressor(),
+                "AdaBoost": AdaBoostRegressor(),
+                "XGB": XGBRegressor(),
+                "CatBoost": CatBoostRegressor(verbose=False),
+            }
+            params={
+                "Linear Regression":{},
+                "KNN":{
+                    'n_neighbors': [3, 5, 7],
+                    'weights': ['uniform', 'distance'],
+                    'metric': ['euclidean', 'manhattan']
+                },
+                "Random Forest":{
+                    'n_estimators': [8,16,32,64,128,256],
+                    'max_depth': [None, 5, 10, 20]
+                },
+                "SVR":{
+                    'C': [0.1, 10, 70],
+                    'epsilon': [0.01, 0.14],
+                    'gamma': ['scale', 'auto', 0.06],
+                    'kernel': ['rbf']
+                },
+                "Gradient Boosting":{
+                    'learning_rate':[.1,.01,.05],
+                    'subsample':[0.6,0.7,0.8,0.9],
+                    'n_estimators': [8,16,32,64,128,256]
+                },
+                "AdaBoost":{
+                    'learning_rate':[.1,.01,0.05],
+                    'n_estimators': [8,16,32,64,128,256]
+                },
+                "XGB":{
+                    'learning_rate':[.1,.01,.05],
+                    'n_estimators': [8,16,32,64,128,256]
+                },
+                "CatBoost":{
+                    'depth': [None,6,8,10],
+                    'learning_rate': [None,0.01, 0.05, 0.1],
+                    'iterations': [None,30, 50, 100]
+                }
             }
 
-            model_report:dict = evaluate_models(X_train=X_train, y_train=y_train, X_test=X_test, y_test=y_test, models=models)
+            model_report:dict = evaluate_models(X_train=X_train, y_train=y_train, X_test=X_test, y_test=y_test, models=models, params=params)
 
             best_model_score = max(model_report.values())
             best_model_name = max(model_report, key=model_report.get)

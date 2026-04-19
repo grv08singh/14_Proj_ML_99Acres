@@ -6,6 +6,7 @@ from src.logger import logging
 import numpy as np
 import pandas as pd
 from sklearn.metrics import r2_score
+from sklearn.model_selection import GridSearchCV
 import dill
 
 def save_object(file_path, obj):
@@ -19,12 +20,22 @@ def save_object(file_path, obj):
     except Exception as e:
         logging.error("Error occurred while saving object: %s", str(e))
         raise CustomException(e, sys)
-def evaluate_models(X_train, y_train, X_test, y_test, models):
+def evaluate_models(X_train, y_train, X_test, y_test, models, params):
     try:
         report = {}
 
         for model_name, model in models.items():
+            param = params[model_name]
+
+            print(f"{model_name}: Applying GridSearchCV with parameters: {param}")
+            gs = GridSearchCV(model, param, cv=5)
+            gs.fit(X_train, y_train)
+            print(f"Best parameters for {model_name}: \n{gs.best_params_}")
+            
+            print(f"Training {model_name} with best parameters...")
+            model.set_params(**gs.best_params_)
             model.fit(X_train, y_train)
+
             y_test_pred = model.predict(X_test)
             test_model_score = r2_score(y_test, y_test_pred)
             report[model_name] = test_model_score
