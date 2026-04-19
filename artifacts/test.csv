@@ -1,0 +1,584 @@
+price_cr,area_sqm,bhk,bathroom,balcony,addl_room,sector,landmark_count,has_hospital_or_clinic,has_police_stn,has_fire_stn,has_mall,has_market,has_park,has_bank_or_atm,has_institute,has_airport,has_rly_stn,has_metro_stn,has_expy,has_petrol_pump,has_hotel,has_temple_or_church,has_famous_chowk,has_club,has_stadium,has_restro_cafe,area_type,floor_rise,age,society,city
+0.22,54.35,1,1,1,0,21,48,25,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,super built up,low,new,shree shyam residency,gurgaon
+1.75,162.12,3,3,3,1,109,15,0,0,0,0,1,0,3,3,1,0,0,0,1,0,1,0,1,1,0,super built up,high,new,ats kocoon,gurgaon
+0.92,176.05,4,5,3,0,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,built up,high,old,sare crescent parc,gurgaon
+2.2,261.24,4,5,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,mid,new,ss the leaf,gurgaon
+1.35,103.03,2,2,2,0,28,45,5,0,0,0,1,0,8,1,0,0,3,0,1,0,2,0,0,0,4,built up,low,old,dlf regency park 1,gurgaon
+1.9,183.48,3,3,3,1,72,45,13,0,0,0,2,3,11,0,0,0,0,0,1,0,1,0,1,0,0,super built up,high,old,spaze privy,gurgaon
+1.55,146.6,3,3,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+1.35,166.3,3,3,3,1,103,15,1,0,0,1,1,1,0,3,1,1,1,2,0,1,0,0,0,0,0,super built up,low,new,indiabulls centrum park,gurgaon
+2.07,168.34,3,3,3,0,69,12,1,0,0,0,0,1,0,2,1,0,0,0,0,1,0,1,0,0,0,super built up,high,new,tulip leaf,gurgaon
+0.25,38.46,1,1,1,0,33,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,1,0,0,super built up,low,new,breez global heights,sohna
+2.45,198.07,3,3,2,1,81,9,1,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,super built up,high,new,dlf the ultima,gurgaon
+1.5,185.81,3,3,3,1,84,12,1,0,0,1,0,0,0,2,1,0,0,1,0,1,0,0,0,0,0,super built up,low,new,ss almeria,gurgaon
+1.71,209.12,3,3,3,1,56,45,6,0,0,0,1,2,14,5,0,0,3,0,1,0,2,1,0,0,4,built up,mid,old,park royal apartment,gurgaon
+0.54,78.5,2,2,2,1,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,carpet,mid,new,signature global park,sohna
+5.6,450.39,4,6,3,1,112,8,2,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,super built up,high,new,experion windchants,gurgaon
+1.6,146.32,3,3,3,1,70,14,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,carpet,low,new,bptp pedestal,gurgaon
+1.14,176.52,3,4,3,1,106,11,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,high,new,paras dews,gurgaon
+2.64,209.16,3,4,3,1,49,14,5,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,super built up,low,old,vatika city,gurgaon
+0.17,298.4,1,1,1,0,95,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,carpet,high,new,ramsons kshitij,gurgaon
+1.3,78.97,2,3,3,1,86,10,1,0,0,1,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,carpet,mid,new,microtek greenburg,gurgaon
+2.75,183.48,4,4,3,1,65,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,emaar mgf emerald floors premier,gurgaon
+2.2,194.63,3,4,3,1,109,15,0,0,0,0,1,0,3,3,1,0,0,0,1,0,1,0,1,1,0,super built up,high,new,ats kocoon,gurgaon
+1.98,223.71,3,4,3,0,85,8,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,super built up,mid,new,ss,gurgaon
+3.1,231.42,3,4,3,1,50,15,0,0,1,0,2,0,4,2,0,0,0,0,1,0,1,0,0,0,0,super built up,mid,old,the close south,gurgaon
+2.1,261.24,4,4,3,0,85,8,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,super built up,low,new,ss,gurgaon
+0.75,101.73,2,2,2,0,69,42,12,0,0,0,2,3,11,0,0,0,0,0,0,0,1,0,1,0,0,super built up,mid,mid aged,unitech sunbreeze,gurgaon
+1.77,223.71,3,4,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,mid,new,ss the leaf,gurgaon
+0.24,52.95,2,2,1,0,33,10,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,2,super built up,high,new,mvn athens,sohna
+5.9,497.03,4,4,3,1,2,11,1,0,0,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,super built up,high,new,paras quartier,gurgaon
+1.27,163.79,3,3,3,1,37,13,0,0,0,1,0,1,0,3,1,1,0,1,0,1,0,0,0,0,0,super built up,low,new,corona optus,gurgaon
+1.9,175.49,3,4,3,1,102,11,1,0,0,1,0,2,0,4,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,adani m2k oyster grande,gurgaon
+1.13,123.19,3,3,2,1,89,14,1,0,0,1,0,2,0,2,0,1,1,2,0,1,0,0,0,0,0,carpet,mid,mid aged,smart world gems,gurgaon
+4.5,296.55,4,4,3,1,67,11,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,ireo victory valley,gurgaon
+0.66,117.43,2,2,3,1,33,7,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,eldeco accolade,sohna
+2.3,167.23,4,4,3,1,33,15,3,0,0,0,0,2,0,4,1,0,0,0,0,1,0,1,0,0,0,carpet,mid,new,central park flower valley,sohna
+1.7,213.68,5,5,2,1,14,50,16,0,0,0,1,0,11,5,0,0,0,0,2,0,2,0,0,0,3,carpet,low,old,vasant appartments,gurgaon
+3.2,204.39,3,3,3,1,66,14,1,0,0,0,0,2,0,2,1,0,1,0,0,0,0,0,1,0,0,super built up,high,new,emaar mgf the palm drive,gurgaon
+1.6,145.39,2,2,2,0,70,11,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,high,old,aipl the peaceful homes,gurgaon
+1.95,253.35,4,4,3,1,90,6,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,dlf new town heights 1,gurgaon
+1.38,104.98,2,2,2,0,2,11,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,built up,mid,under construction,suncity vatsal valley,gurgaon
+2.85,183.48,4,4,3,1,65,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,emaar mgf emerald floors premier,gurgaon
+0.64,120.77,2,2,3,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,mid,old,shree vardhman flora,gurgaon
+3.6,315.87,4,5,3,1,110,15,1,0,0,1,1,0,0,3,1,1,1,2,0,0,0,0,0,0,0,super built up,mid,new,indiabulls enigma,gurgaon
+1.27,163.79,3,3,3,1,37,13,0,0,0,1,0,1,0,3,1,1,0,1,0,1,0,0,0,0,0,super built up,low,new,corona optus,gurgaon
+2.79,169.83,3,3,3,0,65,11,1,0,0,1,0,2,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,high,new,m3m heights,gurgaon
+0.8,125.42,2,3,2,0,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,built up,low,under construction,shree vardhman flora,gurgaon
+0.47,64.1,2,2,1,0,90,15,2,0,0,0,0,0,2,3,0,0,0,0,1,0,0,1,1,0,0,carpet,high,new,green court,gurgaon
+1.25,161.74,2,2,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
+3.0,167.23,3,3,3,0,63,13,1,0,0,1,0,1,0,2,1,0,1,0,0,1,0,0,1,0,0,carpet,low,new,adani brahma samsara vilasa,gurgaon
+1.3,222.97,5,5,2,1,21,11,1,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,built up,low,old,surya vihar rwa,gurgaon
+1.71,132.2,3,2,0,0,89,14,1,0,0,1,0,2,0,2,0,1,1,2,0,1,0,0,0,0,0,built up,low,under construction,smart world gems,gurgaon
+1.25,246.29,4,4,3,0,1,10,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,carpet,mid,old,deepak minda,manesar
+0.8,66.89,1,1,1,0,49,42,10,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,built up,low,under construction,satya element one,gurgaon
+1.55,106.84,2,2,1,1,61,9,1,0,0,1,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,low,mid aged,smart world orchard,gurgaon
+1.15,137.59,2,2,3,1,103,15,1,0,0,1,1,1,0,3,1,1,1,2,0,1,0,0,0,0,0,super built up,high,new,indiabulls centrum park,gurgaon
+0.86,146.6,2,3,3,1,37,8,1,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,imperia the esfera,gurgaon
+0.3,52.68,2,2,0,0,33,6,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,0,built up,high,under construction,gls arawali homes,sohna
+1.55,181.16,4,4,3,1,77,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,low,new,emaar mgf palm hills,gurgaon
+1.2,163.51,3,4,3,1,106,11,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,high,new,paras dews,gurgaon
+3.0,190.17,3,3,3,1,67,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,1,0,0,super built up,mid,new,m3m merlin,gurgaon
+1.95,130.06,3,3,3,1,65,10,1,0,0,1,0,2,0,2,1,0,0,0,0,1,0,0,0,0,0,carpet,low,new,emaar emerald hills,gurgaon
+1.95,117.15,2,2,3,0,65,11,1,0,0,1,0,2,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,high,under construction,m3m heights,gurgaon
+0.56,74.32,2,2,1,0,67,7,1,0,0,1,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,carpet,high,new,shree vardhman mantra,gurgaon
+0.9,133.69,3,3,3,1,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,carpet,low,new,signature global park,sohna
+0.55,97.55,2,2,0,0,51,46,10,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,carpet,mid,new,samaspurkunj,gurgaon
+0.39,55.74,2,2,0,0,84,10,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,super built up,mid,under construction,pivotal devaan apartments,gurgaon
+2.8,218.32,3,4,3,1,70,11,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,high,new,aipl the peaceful homes,gurgaon
+2.3,212.75,3,4,3,1,104,13,1,0,0,1,0,2,0,3,1,0,1,1,0,1,0,1,0,0,0,carpet,high,new,ats triumph,gurgaon
+1.47,106.84,2,2,2,1,61,9,1,0,0,1,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,carpet,mid,new,smart world orchard,gurgaon
+0.87,128.67,2,2,3,0,106,11,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,low,new,paras dews,gurgaon
+1.6,106.84,2,2,2,1,61,9,1,0,0,1,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,carpet,mid,new,smart world orchard,gurgaon
+1.8,174.38,3,4,3,1,50,7,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,super built up,mid,old,unitech fresco,gurgaon
+3.05,249.91,3,4,3,1,113,8,1,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,low,new,la vida by tata housing,gurgaon
+1.72,168.25,3,3,3,1,37,11,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,bptp terra,gurgaon
+0.9,177.44,3,3,0,0,89,7,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,1,built up,high,under construction,greenopolis,gurgaon
+0.39,30.19,1,1,2,0,71,15,1,0,0,0,0,1,2,1,1,0,0,0,1,0,0,0,0,0,0,super built up,low,new,signature andour heights,gurgaon
+2.2,151.62,2,2,1,1,58,13,1,0,0,1,0,2,0,2,1,0,1,0,0,0,0,0,0,0,0,super built up,mid,new,ireo the grand arch,gurgaon
+0.49,92.72,2,2,2,0,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,carpet,low,new,sare crescent parc,gurgaon
+1.04,163.04,3,2,2,0,83,10,1,0,0,1,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,low,old,vatika lifestyle homes,gurgaon
+3.7,274.06,4,5,3,1,111,10,1,0,0,1,0,0,0,2,1,0,2,1,0,0,0,0,0,0,0,super built up,high,new,puri diplomatic greens,gurgaon
+3.25,213.86,3,3,3,1,54,47,5,0,0,0,1,2,13,0,0,0,4,0,1,0,2,1,0,0,4,carpet,high,old,suncity heights,gurgaon
+0.9,173.73,4,5,3,1,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,super built up,high,new,sare crescent parc,gurgaon
+3.0,195.1,4,5,3,1,66,14,1,0,0,0,0,2,0,2,1,0,1,0,0,0,0,0,1,0,0,super built up,high,new,emaar mgf the palm drive,gurgaon
+1.55,179.21,3,3,3,1,86,10,0,0,0,1,0,0,0,3,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,dlf the skycourt,gurgaon
+1.37,200.67,3,3,3,1,82,10,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,1,0,super built up,high,new,vatika the seven lamps,gurgaon
+0.27,92.9,2,2,0,0,95,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,super built up,low,under construction,ramson kshitij sec-95 gurugram,gurgaon
+4.86,174.19,3,4,3,1,54,15,4,0,0,0,2,0,1,5,0,0,1,0,0,0,0,1,0,0,0,super built up,mid,new,dlf park place,gurgaon
+1.5,162.58,3,3,3,0,89,6,1,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,mid,under construction,ats marigold,gurgaon
+1.58,223.71,3,4,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
+3.0,242.01,3,3,3,1,50,9,1,0,0,0,0,1,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,high,old,the close north,gurgaon
+6.75,293.57,4,6,3,1,54,11,1,0,0,1,0,1,0,2,1,1,1,0,0,0,0,1,1,0,0,super built up,high,old,la lagune,gurgaon
+1.77,203.55,4,3,3,1,37,11,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,bptp terra,gurgaon
+1.5,141.21,3,2,3,0,37,9,1,0,0,1,0,1,0,2,0,1,0,1,0,0,0,0,0,0,0,super built up,high,new,bptp park generations,gurgaon
+1.5,152.36,4,4,3,0,52,44,6,0,0,0,1,0,9,1,0,0,0,0,2,0,3,0,0,0,2,super built up,low,old,ardee city,gurgaon
+1.24,161.74,2,2,3,0,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
+2.0,261.24,4,5,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,low,new,ss the leaf,gurgaon
+0.6,83.61,2,2,1,0,81,15,3,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,1,super built up,high,mid aged,vipul lavanya,gurgaon
+2.17,261.24,4,4,3,1,85,8,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,super built up,mid,new,ss,gurgaon
+0.85,117.99,2,2,3,0,84,10,1,0,0,1,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,alpha corp gurgaonone 84,gurgaon
+2.08,244.43,4,4,3,1,108,9,1,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,built up,low,new,experion the heartsong,gurgaon
+1.35,83.61204013377927,2,2,3,0,85,8,1,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,carpet,high,mid aged,godrej air,gurgaon
+1.15,166.3,3,4,2,1,82,10,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,mapsko royale ville,gurgaon
+0.83,115.66,2,2,2,1,83,10,0,0,0,1,0,0,0,2,1,0,1,2,0,0,0,0,0,0,0,super built up,high,new,vatika gurgaon 21,gurgaon
+0.21,41.81,1,1,1,0,33,10,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,2,carpet,high,new,mvn athens,sohna
+1.7,257.16,4,5,3,1,107,6,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,high,new,m3m woodshire,gurgaon
+5.0,483.1,5,7,3,1,52,47,7,0,0,0,1,0,14,0,0,0,4,0,1,0,2,1,0,0,5,carpet,low,old,residency grand,gurgaon
+1.1,102.47,2,2,2,1,89,14,1,0,0,1,0,2,0,2,0,1,1,2,0,1,0,0,0,0,0,carpet,low,new,smart world gems,gurgaon
+1.6,160.44,3,3,2,1,67,12,0,0,0,1,0,1,0,2,1,0,1,0,0,2,0,0,0,0,0,super built up,low,new,ireo the corridors,gurgaon
+0.7,143.81,2,2,3,0,108,8,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,carpet,low,old,raheja the vedaanta floors,gurgaon
+1.78,165.0,3,4,2,1,48,15,2,1,0,2,0,1,2,3,1,0,1,0,1,0,1,0,0,0,0,super built up,mid,new,bestech park view city,gurgaon
+1.16,185.53,3,3,3,1,99,15,2,0,0,1,2,1,3,4,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,pareena coban residences,gurgaon
+0.94,62.34,1,2,2,0,49,15,0,0,0,0,4,0,2,3,0,0,0,0,2,0,0,0,0,0,0,carpet,low,under construction,satya element one,gurgaon
+1.25,113.34,2,2,3,0,68,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,1,0,0,super built up,mid,new,m3m sierra 68,gurgaon
+0.6,83.61,2,2,1,0,4,48,4,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,built up,low,under construction,apna enclave,gurgaon
+4.0,311.23,4,4,3,0,110,15,1,0,0,1,1,0,0,3,1,1,1,2,0,0,0,0,0,0,0,built up,high,new,indiabulls enigma,gurgaon
+0.65,125.42,2,2,3,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,low,new,shree vardhman flora,gurgaon
+0.5,49.38,2,2,2,0,33,7,1,0,0,1,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,carpet,mid,new,signature the serenas,sohna
+0.38,59.84,2,2,2,1,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,mid,new,rof ananda,gurgaon
+0.71,84.17,2,2,1,0,51,9,1,0,0,0,1,1,0,2,1,0,1,0,0,0,1,0,0,0,0,carpet,mid,new,orchid island,gurgaon
+0.82,109.63,2,2,3,1,68,24,8,0,0,0,0,2,7,0,0,0,0,0,0,0,1,0,0,0,0,super built up,high,under construction,supertech hues,gurgaon
+0.64,78.97,2,2,1,0,23,41,0,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,2,carpet,low,old,ashray apartment,gurgaon
+2.65,227.61,3,4,3,1,104,13,1,0,0,1,0,3,0,3,1,1,1,1,0,1,0,0,0,0,0,super built up,high,new,puri emerald bay,gurgaon
+1.67,155.24,3,2,2,0,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,high,new,godrej nature plus,sohna
+1.1,167.41,3,4,3,1,71,15,2,1,0,0,0,2,1,0,1,0,0,0,0,1,0,2,0,0,0,super built up,low,old,chd avenue 71,gurgaon
+1.32,145.67,3,3,1,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+1.68,186.74,4,4,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,tulip violet,gurgaon
+0.6,55.74,2,1,1,0,69,33,9,0,0,0,2,2,9,0,0,0,0,0,0,0,1,0,0,0,0,carpet,high,new,tulip lemon,gurgaon
+1.34,146.04,2,2,3,1,79,10,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,super built up,low,new,godrej 101,gurgaon
+2.35,205.97,3,3,3,1,113,8,1,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,la vida by tata housing,gurgaon
+2.2,199.65,3,4,3,1,102,15,0,0,0,2,0,1,0,2,1,1,1,1,0,1,0,0,0,1,0,super built up,high,new,conscient heritage max,gurgaon
+0.75,116.78,2,2,2,0,81,15,3,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,1,carpet,mid,old,vipul lavanya,gurgaon
+1.45,185.53,3,5,3,1,99,15,2,0,0,1,2,1,3,4,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,pareena coban residences,gurgaon
+1.9,216.0,4,4,3,1,92,11,1,0,0,1,0,1,0,3,1,0,0,2,0,1,0,0,0,0,0,super built up,high,new,bestech park view sanskruti,gurgaon
+1.3,162.67,3,3,3,0,33,7,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,eldeco accolade,sohna
+1.3,134.15,2,2,2,0,3,11,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,carpet,mid,mid aged,godrej habitat,gurgaon
+1.82,170.57,3,3,3,1,50,7,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,super built up,high,old,unitech fresco,gurgaon
+1.98,185.81,3,3,3,1,102,10,1,0,0,1,0,0,0,2,1,1,0,1,0,1,0,0,0,1,0,carpet,high,new,emaar imperial gardens,gurgaon
+0.7,133.32,2,3,3,1,37,8,1,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,under construction,imperia the esfera,gurgaon
+1.38,134.71,3,3,1,0,48,15,3,0,0,1,0,3,1,2,0,1,0,0,1,1,0,0,0,0,0,carpet,low,new,vipul world,gurgaon
+0.88,167.23,3,3,2,0,9,45,4,0,0,0,1,0,9,1,0,0,2,0,1,0,2,0,0,0,1,super built up,low,old,the khushboo cooperative housing society ltd,gurgaon
+5.0,301.56,3,3,3,1,65,9,1,0,0,1,0,1,0,2,1,0,1,0,0,1,0,1,0,0,0,super built up,low,new,m3m golfestate,gurgaon
+2.0,182.74,4,4,1,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,carpet,high,new,tulip violet,gurgaon
+1.25,150.5,3,3,2,1,79,9,0,0,0,1,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,super built up,low,new,mapsko mount ville,gurgaon
+1.25,117.24,2,2,2,0,70,11,1,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,carpet,high,new,aipl zen residences,gurgaon
+1.45,140.1,3,2,3,0,68,10,1,0,0,1,0,2,0,1,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,m3m the marina,gurgaon
+0.45,78.97,2,2,1,0,4,48,10,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,carpet,mid,new,"ganpati apartment  2, laxman vihar phase 1",gurgaon
+0.95,128.67,2,2,3,0,106,11,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,low,new,paras dews,gurgaon
+1.68,154.96,3,3,2,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+1.2,152.36,2,2,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,low,new,ss the leaf,gurgaon
+1.68,186.74,4,4,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,tulip violet,gurgaon
+1.75,171.87,3,4,2,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,carpet,high,new,tulip violet,gurgaon
+,218.69,4,4,3,0,95,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,super built up,low,under construction,sidhartha ncr one phase 2,gurgaon
+0.86,132.85,3,3,3,1,82,11,0,0,0,1,0,2,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,old,mapsko casa bella,gurgaon
+0.32,51.38,2,2,2,0,99,15,1,0,0,0,0,0,2,3,0,1,0,1,1,0,1,0,1,1,0,super built up,high,new,pareena laxmi apartments,gurgaon
+1.52,153.29,3,3,3,1,102,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,emaar gurgaon greens,gurgaon
+2.1,140.12,2,2,2,1,62,11,1,0,0,1,0,1,0,4,1,0,1,0,0,0,0,0,0,0,0,super built up,high,new,emaar digihomes,gurgaon
+1.05,144.0,2,2,3,1,99,15,2,0,0,1,2,1,3,4,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,pareena coban residences,gurgaon
+0.75,92.9,2,2,2,0,36,7,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,super built up,mid,new,avl 36 gurgaon,gurgaon
+0.3,55.93,2,2,1,0,107,10,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,signature global solera,gurgaon
+1.55,195.1,3,3,3,1,54,43,5,0,0,0,1,0,12,0,0,0,2,0,1,0,3,1,0,0,3,super built up,low,old,shree arihant apartment,gurgaon
+6.3,380.44,5,6,3,0,106,11,7,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,super built up,high,under construction,elan the presidential,gurgaon
+1.25,132.39,3,3,2,1,70,12,0,0,0,1,0,1,0,2,1,1,1,0,0,0,0,1,0,0,0,super built up,low,new,bptp astaire gardens,gurgaon
+2.29,258.18,4,5,3,1,108,9,1,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,built up,high,new,experion the heartsong,gurgaon
+5.25,418.06,4,6,3,1,111,10,1,0,0,1,0,0,0,2,1,0,2,1,0,0,0,0,0,0,0,super built up,mid,new,puri diplomatic greens,gurgaon
+1.15,185.81,3,4,2,1,12,50,30,0,0,0,0,0,3,3,0,0,0,0,1,0,1,0,0,0,0,built up,low,old,bhagwati sadan,gurgaon
+1.65,195.1,3,3,3,1,47,43,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,super built up,low,old,cghs airport apartment,gurgaon
+0.85,120.77,3,2,2,0,92,49,5,0,0,0,1,1,8,3,0,0,2,0,0,0,0,1,0,0,6,built up,high,under construction,sare green parc,gurgaon
+1.23,125.42,2,2,3,1,70,15,2,0,0,1,0,2,3,0,0,0,0,0,1,0,0,0,0,0,0,super built up,low,new,shree vardhman victoria,gurgaon
+0.7,139.17,2,2,2,0,112,8,2,0,0,0,0,0,1,2,0,1,1,0,0,0,1,0,0,0,0,built up,mid,new,earth copia,gurgaon
+3.72,247.12,5,4,3,1,113,8,1,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,carpet,high,new,la vida by tata housing,gurgaon
+2.22,194.63,3,4,3,1,109,15,0,0,0,0,1,0,3,3,1,0,0,0,1,0,1,0,1,1,0,super built up,high,new,ats kocoon,gurgaon
+2.2,195.1,3,4,3,1,81,9,1,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,super built up,mid,new,dlf the ultima,gurgaon
+2.9,183.48,4,4,0,1,65,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,carpet,mid,new,emaar mgf emerald floors premier,gurgaon
+2.01,163.51,4,4,3,0,1,25,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,carpet,high,old,samadhan shri kamal cghs,gurgaon
+2.2,187.48,3,3,3,1,74,7,1,0,0,2,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,high,new,m3m skywalk,gurgaon
+3.95,217.67,3,4,2,1,108,13,1,0,0,0,0,1,0,2,1,0,0,1,0,0,0,0,0,1,0,super built up,high,new,sobha city,gurgaon
+0.85,116.31,2,2,2,0,99,13,1,0,0,1,0,0,0,2,1,1,0,2,0,1,0,0,0,1,0,super built up,low,new,raheja vanya,gurgaon
+0.7,125.6,2,2,3,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,shree vardhman flora,gurgaon
+0.97,137.5,3,3,3,1,70,12,0,0,0,1,0,1,0,2,1,1,1,0,0,0,0,1,0,0,0,super built up,low,new,bptp astaire gardens,gurgaon
+0.45,55.46,2,2,1,0,102,8,1,0,0,0,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,super built up,high,new,rof aalayas,gurgaon
+0.7,117.06,3,3,2,0,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,built up,high,under construction,sare crescent parc,gurgaon
+1.63,181.16,3,3,3,1,70,15,2,0,0,1,0,2,3,0,0,0,0,0,1,0,0,0,0,0,0,super built up,mid,new,shree vardhman victoria,gurgaon
+2.7,218.32,4,4,3,1,67,11,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,super built up,high,old,bestech park view spa next,gurgaon
+5.8,260.22,4,4,3,0,54,45,4,0,0,0,2,0,13,0,0,0,3,0,1,0,2,1,0,0,0,built up,high,under construction,dlf icon,gurgaon
+2.7,200.58,3,4,3,0,49,15,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,1,0,0,super built up,mid,old,bestech park view city 2,gurgaon
+0.45,88.26,3,2,1,0,105,33,8,0,0,0,0,0,1,1,0,3,0,0,0,0,2,0,0,0,1,carpet,low,new,uphaar homes,gurgaon
+0.35,58.06,2,2,2,0,33,14,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,1,0,0,carpet,high,new,breez global hill view,sohna
+0.85,154.78,3,2,2,0,1,11,5,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,super built up,mid,old,hsiidc sidco shivalik apartments,manesar
+2.5,209.03,3,3,3,0,57,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,super built up,high,old,bptp freedom park life,gurgaon
+1.49,170.2,3,3,3,1,37,11,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,bptp terra,gurgaon
+2.0,223.71,3,4,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
+1.75,176.52,3,3,3,1,83,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,emaar palm gardens,gurgaon
+2.25,195.1,3,3,3,1,82,7,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,carpet,high,new,dlf the primus,gurgaon
+2.55,172.8,3,3,3,1,22,14,1,0,0,1,0,1,0,2,1,1,0,1,0,0,0,0,0,0,0,super built up,high,new,ambience creacions,gurgaon
+0.43,46.54,2,2,1,1,86,9,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,carpet,mid,new,pyramid urban homes 2,gurgaon
+0.65,120.77,2,2,3,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,shree vardhman flora,gurgaon
+2.25,185.81,3,3,3,1,74,7,1,0,0,2,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,m3m skywalk,gurgaon
+0.65,76.37,2,1,2,0,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,carpet,low,new,signature global park,sohna
+0.28,69.03,2,2,1,0,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,built up,high,new,hcbs sports ville,sohna
+1.25,139.35,3,2,3,1,82,6,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,low,new,vatika inxt floors,gurgaon
+0.98,142.51,2,2,3,1,107,6,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,m3m woodshire,gurgaon
+0.3,47.38,1,1,2,0,51,45,8,0,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,0,super built up,low,old,housing board colony,gurgaon
+0.8,123.19,3,2,2,0,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,carpet,low,new,sare crescent parc,gurgaon
+1.65,146.6,3,3,2,0,69,42,12,0,0,0,2,3,11,0,0,0,0,0,0,0,1,0,1,0,0,built up,low,new,tulip violet,gurgaon
+1.45,167.23,4,3,0,0,82,7,1,0,0,1,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,built up,low,under construction,vatika independent floors,gurgaon
+1.25,182.09,3,4,3,0,82,11,0,0,0,1,0,2,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,mid aged,mapsko casa bella,gurgaon
+1.25,128.48,2,2,3,0,79,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,built up,low,under construction,"godrej 101, sector 79",gurgaon
+0.67,112.41,2,2,3,1,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,mid,new,signature global park,sohna
+0.95,86.4,2,2,1,0,70,11,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,built up,high,new,aipl club residences,gurgaon
+7.15,402.92,4,5,3,1,62,12,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,1,0,0,super built up,mid,new,pioneer urban presidia,gurgaon
+2.36,153.29,3,3,3,1,65,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,new,emaar mgf emerald floors premier,gurgaon
+1.5,219.07,3,4,3,1,37,13,0,0,0,1,0,1,0,3,1,1,0,1,0,1,0,0,0,0,0,super built up,high,new,corona optus,gurgaon
+0.32,65.03,2,2,1,1,95,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,ramsons kshitij,gurgaon
+2.2,143.91,3,3,2,0,61,9,1,0,0,1,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,carpet,mid,new,smart world orchard,gurgaon
+1.21,162.3,3,3,3,1,90,14,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,dlf regal gardens,gurgaon
+1.9,283.82,4,4,3,1,109,11,6,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,super built up,high,new,sbtl caladium,gurgaon
+2.62,292.64,4,4,3,1,104,13,1,0,0,1,0,2,0,3,1,0,1,1,0,1,0,1,0,0,0,super built up,high,new,ats triumph,gurgaon
+5.5,465.44,5,6,3,1,57,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,built up,high,old,bptp freedom park life,gurgaon
+2.1,126.53,3,3,1,1,54,15,1,1,0,2,0,1,3,0,0,0,0,0,0,0,1,0,1,0,0,super built up,low,old,dlf carlton estate,gurgaon
+1.48,185.81,3,3,2,1,84,12,1,0,0,1,0,0,0,2,1,0,0,1,0,1,0,0,0,0,0,super built up,low,new,ss almeria,gurgaon
+0.65,107.12,2,2,2,1,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,low,new,signature global park,sohna
+1.98,202.71,3,4,3,1,49,14,5,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,super built up,high,old,vatika city,gurgaon
+4.75,349.59,3,5,3,1,112,8,2,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,super built up,mid,new,experion windchants,gurgaon
+1.65,128.21,2,2,2,1,22,14,1,0,0,1,0,1,0,2,1,1,0,1,0,0,0,0,0,0,0,super built up,high,new,ambience creacions,gurgaon
+3.0,250.0,3,3,3,1,113,8,1,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,low,new,la vida by tata housing,gurgaon
+1.62,150.22,3,2,3,1,88,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,godrej icon,gurgaon
+1.83,169.92,3,3,3,0,85,8,1,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,carpet,high,mid aged,godrej air,gurgaon
+1.0,116.13,3,3,3,0,37,10,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,built up,mid,mid aged,signature global city,gurgaon
+3.8,260.13,4,5,3,1,60,7,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,super built up,high,old,ireo skyon,gurgaon
+2.5,143.91,3,3,1,0,61,9,1,0,0,1,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,built up,low,under construction,smart world orchard,gurgaon
+1.93,146.69,3,3,2,0,113,8,1,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,mid aged,la vida by tata housing,gurgaon
+1.35,144.65,3,2,3,0,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,high,new,godrej nature plus,sohna
+2.45,143.91,3,3,3,1,61,9,1,0,0,1,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,low,new,smart world orchard,gurgaon
+0.28,60.39,2,2,1,0,3,48,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,super built up,low,new,ashok vihar phase 2,gurgaon
+1.99,223.71,3,4,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
+6.5,314.94,4,5,3,1,53,15,0,0,0,1,0,1,0,2,1,0,1,0,0,0,0,0,2,0,0,super built up,high,new,parsvnath exotica,gurgaon
+0.7,125.6,2,2,3,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,shree vardhman flora,gurgaon
+8.25,273.13,3,4,3,1,53,9,1,0,0,1,0,0,0,2,0,0,1,0,0,2,0,0,1,0,1,super built up,high,new,tulip monsella,gurgaon
+1.22,164.62,2,2,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
+3.85,269.88,4,5,3,1,72,10,1,0,0,0,0,2,0,2,0,0,1,0,0,1,0,0,0,0,0,super built up,high,new,tata primanti,gurgaon
+2.0,143.07,3,3,2,0,63,13,1,0,0,0,0,3,0,2,1,0,1,0,0,1,0,1,1,0,0,built up,low,mid aged,signature global city 63a,gurgaon
+0.75,123.1,2,2,3,0,76,4,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,corona gracieux,gurgaon
+1.2,138.61,2,2,2,0,33,7,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,built up,high,under construction,eldeco accolade,sohna
+1.79,205.78,4,3,3,0,90,14,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,carpet,high,old,dlf regal gardens,gurgaon
+1.25,158.21,3,3,3,1,90,14,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,high,old,dlf regal gardens,gurgaon
+4.85,266.07,4,5,3,1,58,13,1,0,0,1,0,2,0,2,1,0,1,0,0,0,0,0,0,0,0,carpet,high,new,ireo the grand arch,gurgaon
+1.52,146.6,3,3,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,new,tulip violet,gurgaon
+0.33,85.94,2,2,1,0,37,4,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,super built up,low,new,apex our homes,gurgaon
+14.0,65.03,4,5,3,0,24,41,3,0,0,0,1,0,12,0,0,0,6,0,0,0,1,0,0,0,1,built up,low,under construction,ambience caitriona,gurgaon
+1.54,132.29,2,2,3,1,74,7,1,0,0,2,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,high,new,m3m skywalk,gurgaon
+1.75,212.75,3,4,3,1,104,13,1,0,0,1,0,2,0,3,1,0,1,1,0,1,0,1,0,0,0,super built up,high,new,ats triumph,gurgaon
+1.32,157.47,3,3,3,1,103,15,1,0,0,1,1,1,0,3,1,1,1,2,0,1,0,0,0,0,0,super built up,mid,new,indiabulls centrum park,gurgaon
+1.45,199.74,3,4,3,1,109,11,1,0,0,1,0,0,0,2,1,0,2,1,0,0,0,0,0,1,0,super built up,mid,new,ats tourmaline,gurgaon
+1.35,85.01,2,2,2,0,102,13,1,0,0,1,1,0,0,2,1,0,0,1,0,1,0,0,1,0,0,super built up,high,mid aged,shapoorji pallonji joyville gurugram,gurgaon
+1.0,109.63,2,2,3,0,68,21,7,0,0,0,0,2,7,0,0,0,0,0,0,0,1,0,0,0,0,carpet,high,new,supertech hues,gurgaon
+0.61,117.15,3,2,2,1,92,7,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,super built up,mid,under construction,sare green parc 2,gurgaon
+0.7,64.66,2,2,2,0,111,15,2,1,0,0,2,2,2,3,0,0,1,0,0,0,0,0,0,0,0,carpet,high,new,lotus homz,gurgaon
+4.4,390.19,4,4,3,1,81,7,2,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,super built up,mid,new,bestech spa signature,gurgaon
+5.9,312.43,3,3,3,1,65,9,1,0,0,1,0,1,0,2,1,0,1,0,0,1,0,1,0,0,0,super built up,high,new,m3m golfestate,gurgaon
+2.0,172.06,3,3,3,0,102,13,1,0,0,1,1,0,0,2,1,0,0,1,0,1,0,0,1,0,0,super built up,high,new,shapoorji pallonji joyville gurugram,gurgaon
+0.56,76.37,2,2,3,0,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,carpet,low,new,signature global park,sohna
+3.21,234.12,3,3,3,0,113,12,1,0,0,1,0,1,0,3,1,0,2,2,0,0,0,0,0,0,0,super built up,high,new,tata gurgaon gateway,gurgaon
+3.9,278.71,4,5,3,1,111,10,1,0,0,1,0,0,0,2,1,0,2,1,0,0,0,0,0,0,0,super built up,mid,new,puri diplomatic greens,gurgaon
+0.9,137.96,3,3,2,0,85,8,2,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,orris carnation residency,gurgaon
+0.6,68.28,1,1,1,0,2,24,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,super built up,mid,old,ansal api celebrity suites,gurgaon
+0.55,59.37,2,2,1,0,71,15,1,0,0,0,0,1,2,1,1,0,0,0,1,0,0,0,0,0,0,super built up,mid,new,signature andour heights,gurgaon
+0.48,62.25,2,2,2,0,95,12,0,0,0,1,0,0,0,2,1,0,0,1,1,1,0,0,0,0,0,carpet,mid,new,signature the roselia,gurgaon
+5.8,343.74,3,4,3,1,24,42,4,0,0,0,0,0,8,0,0,0,4,0,0,0,1,0,0,0,2,built up,high,old,ambience lagoon,gurgaon
+0.65,59.37,2,2,1,0,71,15,1,0,0,0,0,1,2,1,1,0,0,0,1,0,0,0,0,0,0,super built up,high,new,signature andour heights,gurgaon
+1.2,152.36,2,2,3,0,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
+0.85,120.77,2,2,2,0,82,10,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,1,0,super built up,high,new,vatika the seven lamps,gurgaon
+0.99,168.62,3,5,3,1,37,8,1,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,imperia the esfera,gurgaon
+1.2,154.68,3,3,3,1,106,11,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,high,new,paras dews,gurgaon
+1.2,132.2,3,3,2,0,89,14,1,0,0,1,0,2,0,2,0,1,1,2,0,1,0,0,0,0,0,carpet,low,new,smart world gems,gurgaon
+2.8,181.16,3,3,2,1,66,14,1,0,0,0,0,2,0,2,1,0,1,0,0,0,0,0,1,0,0,super built up,high,new,emaar mgf the palm drive,gurgaon
+0.92,128.67,2,2,3,0,106,11,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,low,new,paras dews,gurgaon
+0.58,56.21,1,1,1,0,56,45,6,0,0,0,1,2,14,5,0,0,3,0,1,0,2,1,0,0,4,carpet,low,old,kendriya vihar,gurgaon
+0.5,83.61,2,2,2,1,7,50,34,0,0,0,0,0,1,3,0,0,0,0,2,0,1,0,0,0,0,super built up,low,old,"gokuldham society, bahadurgarh",gurgaon
+2.35,150.04,3,3,3,0,111,20,2,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,built up,mid,new,m3m the tree of life,gurgaon
+0.22,55.74,2,1,1,0,110,26,4,0,0,0,1,0,1,2,0,4,1,0,0,0,1,0,0,0,0,super built up,low,new,city shri ram apartments 1,gurgaon
+1.28,139.82,3,3,3,0,79,10,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,super built up,mid,new,godrej 101,gurgaon
+3.95,217.67,3,5,2,1,108,13,1,0,0,0,0,1,0,2,1,0,0,1,0,0,0,0,0,1,0,super built up,high,new,sobha city,gurgaon
+1.9,181.16,3,3,3,1,70,15,2,0,0,1,0,2,3,0,0,0,0,0,1,0,0,0,0,0,0,super built up,high,new,shree vardhman victoria,gurgaon
+1.7,146.6,3,3,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+0.7,125.6,2,3,2,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,carpet,mid,new,shree vardhman flora,gurgaon
+1.45,137.5,3,2,3,0,86,10,1,0,0,1,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,built up,high,new,microtek greenburg,gurgaon
+2.58,204.39,3,4,2,1,111,10,1,0,0,1,0,0,0,2,1,0,2,1,0,0,0,0,0,0,0,super built up,high,new,puri diplomatic greens,gurgaon
+0.75,124.68,2,2,2,1,77,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,high,new,umang winter hills,gurgaon
+1.35,153.29,3,3,3,1,102,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,emaar gurgaon greens,gurgaon
+4.0,325.16,4,4,2,1,82,6,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,carpet,mid,under construction,dlf 76,gurgaon
+3.05,221.57,3,4,2,1,67,11,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,ireo victory valley,gurgaon
+3.25,298.78,4,5,3,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+1.76,205.78,4,4,3,0,90,14,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,dlf regal gardens,gurgaon
+,445.93,4,4,3,1,50,15,4,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,carpet,mid,old,ss hibiscus,gurgaon
+2.4,180.6,3,3,2,1,45,47,2,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,super built up,low,new,unitech greenwood city,gurgaon
+6.0,222.97,4,4,2,1,54,8,1,0,0,1,0,1,0,2,1,0,1,0,0,0,0,0,0,0,0,carpet,low,mid aged,dlf the grove,gurgaon
+0.5,59.46,3,3,1,0,92,4,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,super built up,high,new,gls avenue 51,gurgaon
+1.66,181.16,3,5,3,1,70,15,2,0,0,1,0,2,3,0,0,0,0,0,1,0,0,0,0,0,0,super built up,high,new,shree vardhman victoria,gurgaon
+1.6,185.81,3,3,3,0,99,15,2,0,0,1,2,1,3,4,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,mid aged,pareena coban residences,gurgaon
+0.68,120.59,3,3,2,1,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,carpet,high,new,sare homes,gurgaon
+2.7,239.32,4,4,3,1,82,7,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,super built up,high,old,dlf the primus,gurgaon
+1.4,219.34,3,4,3,1,107,6,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,m3m woodshire,gurgaon
+1.76,225.75,4,4,3,0,52,43,5,0,0,0,0,0,10,0,0,0,0,0,2,0,3,0,0,0,4,super built up,high,new,ramshanti cooperative society,gurgaon
+0.45,91.04,2,2,1,1,95,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,low,new,ramsons kshitij,gurgaon
+1.0,137.96,3,3,3,0,71,15,2,1,0,0,0,2,1,0,1,0,0,0,0,1,0,2,0,0,0,super built up,low,new,chd avenue 71,gurgaon
+0.35,85.94,2,2,1,0,37,4,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,apex our homes,gurgaon
+1.36,146.6,3,3,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+1.3,133.78,3,3,2,0,102,12,1,0,0,1,1,3,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,low,mid aged,ramprastha city,gurgaon
+1.3,94.76,2,2,2,1,65,8,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,super built up,mid,new,emaar mgf emerald estate,gurgaon
+0.78,120.31,2,2,3,1,79,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,super built up,high,new,supertech araville,gurgaon
+2.8,190.17,3,3,3,1,67,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,1,0,0,super built up,mid,old,m3m merlin,gurgaon
+0.3,54.39,2,2,1,0,33,14,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,1,0,0,carpet,high,new,breez global hill view,sohna
+0.95,181.72,4,3,3,0,92,11,0,0,0,0,0,0,0,4,1,0,1,1,0,0,0,0,0,0,0,super built up,mid,old,sare green parc phase 3,gurgaon
+0.24,31.6,1,1,1,0,33,10,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,2,carpet,high,new,mvn athens,sohna
+0.8,158.31,4,4,3,0,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,carpet,low,old,sare homes,gurgaon
+0.71,123.19,3,3,3,1,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,carpet,low,new,sare homes,gurgaon
+0.49,104.52,2,2,2,0,84,3,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,antriksh heights,gurgaon
+1.8,175.49,3,4,3,1,102,11,1,0,0,1,0,2,0,4,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,adani m2k oyster grande,gurgaon
+,153.01,3,3,3,0,104,15,1,0,0,1,0,0,0,2,1,1,1,1,0,1,0,0,0,1,0,super built up,high,new,godrej summit,gurgaon
+3.65,260.13,3,5,2,1,112,8,2,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,built up,low,new,experion windchants,gurgaon
+1.16,168.71,3,4,3,1,104,15,1,0,0,1,0,0,0,2,1,1,1,1,0,1,0,0,0,1,0,carpet,high,new,godrej summit,gurgaon
+1.04,161.74,2,3,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,mid,new,ss the leaf,gurgaon
+2.0,167.78,3,3,3,0,113,18,2,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,built up,high,under construction,smartworld one dxp,gurgaon
+0.66,121.7,2,2,3,0,37,6,1,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,built up,high,under construction,ild grand,gurgaon
+1.42,219.62,4,4,3,1,90,6,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,super built up,high,old,dlf new town heights 1,gurgaon
+1.25,132.2,3,3,2,1,89,9,1,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,carpet,low,new,m3m soulitude,gurgaon
+1.4,222.97,5,4,2,0,21,16,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,super built up,low,old,mittal surya vihar,gurgaon
+1.9,186.74,4,4,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,new,tulip violet,gurgaon
+0.45,58.11,2,2,1,0,88,6,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,high,new,adani aangan arcade,gurgaon
+1.31,83.61204013377927,2,2,2,0,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,mid,under construction,godrej nature plus,sohna
+1.72,183.02,4,4,1,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+1.28,146.6,3,3,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+1.1,148.64,4,3,2,0,92,11,0,0,0,0,0,0,0,4,1,0,1,1,0,0,0,0,0,0,0,carpet,high,new,sare green parc phase 3,gurgaon
+1.65,162.12,3,3,3,1,109,15,0,0,0,0,1,0,3,3,1,0,0,0,1,0,1,0,1,1,0,super built up,high,new,ats kocoon,gurgaon
+1.3,166.39,3,3,3,0,88,7,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,carpet,mid,new,godrej oasis,gurgaon
+0.29,69.03,2,2,1,0,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,built up,mid,under construction,hcbs sports ville,sohna
+1.25,173.26,3,3,3,0,70,7,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,high,under construction,krrish florence estate,gurgaon
+0.51,116.13,3,2,2,0,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,super built up,low,new,sare crescent parc,gurgaon
+1.05,128.67,2,2,2,0,106,11,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,carpet,mid,new,paras dews,gurgaon
+0.9,104.05,3,2,2,0,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,low,mid aged,signature global park,sohna
+0.46,83.61,2,2,1,0,4,48,11,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,carpet,low,new,shri ram apartments,gurgaon
+1.7,186.74,4,4,2,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,tulip violet,gurgaon
+2.15,140.1,2,2,3,0,62,11,1,0,0,1,0,1,0,4,1,0,1,0,0,0,0,0,0,0,0,carpet,high,under construction,emaar digihomes,gurgaon
+0.82,126.81,2,2,3,0,99,4,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,built up,low,under construction,assotech blith,gurgaon
+1.82,126.26,3,2,2,0,106,20,9,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,built up,mid,under construction,mrg skyline,gurgaon
+7.0,557.42,4,4,3,1,2,27,3,0,0,0,1,2,9,4,0,0,0,0,0,0,2,0,0,0,3,super built up,mid,new,.,gurgaon
+0.21,44.97,1,1,0,0,33,13,1,0,0,0,1,1,1,2,0,0,1,1,0,0,1,1,0,0,0,built up,low,under construction,trisara our homes 3,sohna
+2.05,241.55,4,4,3,1,56,46,5,0,0,0,1,2,14,0,0,0,3,0,1,0,2,1,0,0,4,super built up,mid,new,the lions cghs,gurgaon
+1.02,144.0,2,2,3,1,99,15,2,0,0,1,2,1,3,4,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,pareena coban residences,gurgaon
+1.4,146.6,3,3,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+3.5,204.39,3,4,3,1,66,14,1,0,0,0,0,2,0,2,1,0,1,0,0,0,0,0,1,0,0,super built up,mid,new,emaar mgf the palm drive,gurgaon
+1.1,128.21,2,2,2,0,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,high,under construction,godrej nature plus,sohna
+1.7,145.86,3,2,3,0,79,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,built up,high,under construction,m3m golf hills phase 1,gurgaon
+2.1,199.65,3,4,3,1,102,15,0,0,0,2,0,1,0,2,1,1,1,1,0,1,0,0,0,1,0,super built up,high,new,conscient heritage max,gurgaon
+0.9,142.51,2,2,3,1,107,6,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,high,new,m3m woodshire,gurgaon
+1.3,132.2,3,3,2,1,89,14,1,0,0,1,0,2,0,2,0,1,1,2,0,1,0,0,0,0,0,carpet,low,new,smart world gems,gurgaon
+1.25,125.42,2,2,3,1,70,15,2,0,0,1,0,2,3,0,0,0,0,0,1,0,0,0,0,0,0,super built up,low,new,shree vardhman victoria,gurgaon
+1.7,125.42,3,3,3,1,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,mid,new,godrej nature plus,sohna
+1.6,171.87,3,3,3,1,83,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,emaar palm gardens,gurgaon
+1.3,177.44,3,3,3,1,89,7,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,1,carpet,low,new,greenopolis,gurgaon
+1.28,174.38,3,3,3,1,82,10,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,1,0,super built up,low,new,vatika the seven lamps,gurgaon
+3.5,183.48,4,4,3,1,65,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,new,emaar mgf emerald floors premier,gurgaon
+1.35,152.36,3,2,3,1,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,godrej nature plus,sohna
+2.1,261.24,4,4,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,mid,new,ss the leaf,gurgaon
+0.75,124.68,2,2,2,0,77,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,umang winter hills,gurgaon
+0.94,133.32,2,2,3,1,82,10,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,1,0,super built up,high,new,vatika the seven lamps,gurgaon
+1.4,146.6,3,3,2,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,tulip violet,gurgaon
+0.98,131.46,2,2,3,0,2,10,1,0,0,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,high,old,bestech park view residency,gurgaon
+0.28,71.26,2,2,2,1,95,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,ramsons kshitij,gurgaon
+1.39,200.67,3,3,3,1,82,10,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,1,0,super built up,high,new,vatika the seven lamps,gurgaon
+1.4,60.39,3,3,3,0,33,11,1,0,0,1,0,0,0,3,1,1,0,0,0,1,0,0,0,1,0,super built up,low,mid aged,central park flower valley,sohna
+1.1,83.89,2,2,1,0,102,13,1,0,0,1,1,0,0,2,1,0,0,1,0,1,0,0,1,0,0,super built up,high,mid aged,shapoorji pallonji joyville gurugram,gurgaon
+1.42,153.29,3,3,3,1,48,45,12,0,0,0,2,3,11,0,0,0,0,0,1,0,1,0,1,0,0,super built up,low,old,parsvnath green ville,gurgaon
+0.4,83.61,3,2,1,0,3,48,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,carpet,low,new,om appartments,gurgaon
+2.1,213.68,4,4,3,0,51,47,10,0,0,0,0,0,9,5,0,0,0,0,3,0,2,0,1,0,2,built up,low,new,the arzoo cghs,gurgaon
+1.0,76.74,1,1,1,0,67,23,7,0,0,0,0,2,7,0,0,0,0,0,0,0,1,0,1,0,0,built up,high,new,m3m urbana,gurgaon
+2.22,144.0,3,2,3,0,68,10,1,0,0,1,0,2,0,1,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,new,m3m the marina,gurgaon
+2.15,194.63,3,4,3,1,109,15,0,0,0,0,1,0,3,3,1,0,0,0,1,0,1,0,1,1,0,super built up,high,new,ats kocoon,gurgaon
+2.78,190.17,3,3,3,1,67,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,1,0,0,super built up,mid,new,m3m merlin,gurgaon
+0.2,34.01,1,1,1,1,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
+0.5,59.92,3,2,2,1,107,10,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,carpet,mid,new,signature global solera,gurgaon
+0.35,59.18,2,2,0,0,95,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,built up,mid,under construction,ramsons kshitij,gurgaon
+1.26,179.3,3,3,3,1,86,15,2,0,0,0,0,0,4,5,1,0,0,0,0,0,0,0,0,0,0,super built up,mid,old,dlf new town heights 2,gurgaon
+1.25,167.78,4,3,3,1,9,50,36,0,0,0,0,0,5,2,0,0,0,0,0,0,1,0,0,0,1,carpet,low,old,railway officers rpf society,gurgaon
+2.8,169.83,3,3,3,0,65,11,1,0,0,1,0,2,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,high,mid aged,m3m heights,gurgaon
+2.45,212.75,3,4,2,1,47,43,9,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,carpet,low,old,malibu towers,gurgaon
+4.0,311.23,4,4,3,0,110,15,1,0,0,1,1,0,0,3,1,1,1,2,0,0,0,0,0,0,0,built up,high,new,indiabulls enigma,gurgaon
+5.7,128.39,3,3,3,0,54,47,6,0,0,0,1,0,13,0,0,0,4,0,1,0,3,1,0,0,3,built up,low,under construction,dlf the grove,gurgaon
+1.75,215.91,4,5,3,1,104,15,1,0,0,1,0,0,0,2,1,1,1,1,0,1,0,0,0,1,0,carpet,low,new,godrej summit,gurgaon
+3.0,295.9,4,5,2,1,81,9,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,bestech park view grand spa,gurgaon
+0.72,112.41,2,2,3,1,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,low,new,signature global park,sohna
+1.21,179.3,3,3,3,1,90,6,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,new,dlf new town heights 1,gurgaon
+1.9,310.67,3,4,3,1,103,15,1,0,0,1,1,1,0,3,1,1,1,2,0,1,0,0,0,0,0,carpet,high,new,indiabulls centrum park,gurgaon
+1.1,163.7,3,3,3,0,103,12,6,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,super built up,mid,new,ansal housing highland park,gurgaon
+1.7,183.02,4,4,1,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+13.2,1021.93,4,4,3,1,65,9,1,0,0,1,0,1,0,2,1,0,1,0,0,1,0,1,0,0,0,carpet,high,old,m3m golfestate,gurgaon
+0.75,125.42,2,2,2,0,33,8,1,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,built up,mid,old,silverglades the melia,sohna
+1.9,263.38,4,4,3,0,99,11,1,0,0,0,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,built up,low,under construction,assotech blith,gurgaon
+1.6,130.62,2,2,2,0,74,7,1,0,0,2,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,high,new,m3m skywalk,gurgaon
+0.99,145.39,3,4,2,0,70,4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,super built up,high,mid aged,unitech vistas,gurgaon
+2.24,153.29,3,3,3,1,65,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,carpet,low,new,emaar mgf emerald floors premier,gurgaon
+1.2,89.0,3,3,3,1,89,14,1,0,0,1,0,2,0,2,0,1,1,2,0,1,0,0,0,0,0,carpet,low,mid aged,smart world gems,gurgaon
+2.0,219.81,3,4,3,1,79,10,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,carpet,low,new,godrej 101,gurgaon
+1.33,132.2,3,3,3,1,89,9,1,0,0,0,0,0,0,2,1,0,0,2,0,0,0,0,0,0,0,built up,mid,mid aged,m3m soulitude,gurgaon
+1.5,130.06,2,2,3,1,74,7,1,0,0,2,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,high,new,m3m skywalk,gurgaon
+1.3,112.41,2,2,2,1,33,15,4,0,0,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,super built up,low,new,central park flower valley cerise floors,sohna
+1.1,125.51,2,2,3,0,79,11,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,1,0,super built up,mid,new,godrej aria,gurgaon
+1.55,168.25,3,3,3,0,37,11,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,bptp terra,gurgaon
+1.77,169.73,3,3,3,0,102,13,1,0,0,1,1,0,0,2,1,0,0,1,0,1,0,0,1,0,0,super built up,low,new,shapoorji pallonji joyville gurugram,gurgaon
+0.85,146.04,3,3,0,0,92,11,1,0,0,0,0,0,2,1,0,0,0,1,0,0,1,0,0,0,0,super built up,high,new,raheja navodaya,gurgaon
+0.5,58.9,2,2,1,0,81,10,1,0,0,1,0,0,0,2,0,0,0,2,0,1,0,0,0,0,0,carpet,high,new,signature global synera,gurgaon
+1.75,260.13,4,4,3,1,1,50,34,0,0,0,0,0,1,3,0,0,0,0,2,0,1,0,0,0,0,carpet,high,new,sonata group housing society sector 1 manesar,gurgaon
+1.38,235.51,4,5,3,1,82,11,0,0,0,1,0,2,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,mapsko casa bella,gurgaon
+6.5,394.84,4,4,3,1,72,10,1,0,0,0,0,2,0,2,0,0,1,0,0,1,0,0,0,0,0,super built up,high,new,tata primanti,gurgaon
+1.65,219.62,4,4,3,1,90,6,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,super built up,high,old,dlf new town heights 1,gurgaon
+1.79,166.2,3,3,3,0,33,15,3,0,0,0,0,2,0,4,1,0,0,0,0,1,0,1,0,0,0,super built up,low,old,central park flower valley,sohna
+1.7,213.68,5,5,2,1,14,50,16,0,0,0,1,0,11,5,0,0,0,0,2,0,2,0,0,0,3,carpet,low,old,vasant appartments,gurgaon
+1.14,124.12,2,2,2,1,50,7,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,super built up,high,old,unitech fresco,gurgaon
+0.95,185.81,4,3,2,0,92,8,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,super built up,high,new,sare homes,gurgaon
+3.35,192.58,3,4,2,0,108,13,1,0,0,0,0,1,0,2,1,0,0,1,0,0,0,0,0,1,0,super built up,high,new,sobha city,gurgaon
+0.85,179.3,3,4,3,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,low,new,shree vardhman flora,gurgaon
+0.21,41.81,1,1,1,0,4,48,15,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,carpet,low,new,shreeram apartment ii,gurgaon
+1.7,166.2,3,3,3,0,33,15,0,0,0,0,0,2,2,3,0,0,0,0,1,1,0,0,0,0,1,super built up,high,under construction,central park flower valley aqua front towers,sohna
+1.63,181.16,3,5,3,1,70,15,2,0,0,1,0,2,3,0,0,0,0,0,1,0,0,0,0,0,0,super built up,high,new,shree vardhman victoria,gurgaon
+0.75,100.43,2,2,0,0,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,built up,low,under construction,signature global park,sohna
+2.3,165.09,3,3,3,1,28,47,6,0,0,0,1,0,12,0,0,0,2,0,0,0,3,0,0,0,5,built up,mid,old,dlf regency park 2,gurgaon
+3.0,454.3,4,6,3,1,82,11,0,0,0,1,0,2,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,mapsko casa bella,gurgaon
+1.4,127.09,2,2,3,0,102,13,1,0,0,1,1,0,0,2,1,0,0,1,0,1,0,0,1,0,0,super built up,high,new,shapoorji pallonji joyville gurugram,gurgaon
+3.75,260.13,4,5,3,1,60,7,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,super built up,high,new,ireo skyon,gurgaon
+0.4,55.93,2,2,1,0,33,13,1,0,0,0,1,1,1,2,0,0,1,1,0,0,1,1,0,0,0,carpet,mid,new,trisara our homes 3,sohna
+1.5,168.25,3,3,3,1,37,11,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,bptp terra,gurgaon
+1.78,181.16,3,3,3,0,68,8,1,0,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,m3m ikonic,gurgaon
+1.82,180.42,3,4,3,1,102,15,0,0,0,2,0,1,0,2,1,1,1,1,0,1,0,0,0,1,0,super built up,high,old,conscient heritage max,gurgaon
+0.6,99.96,2,2,2,1,95,4,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,super built up,high,new,sidhartha ncr greens,gurgaon
+0.72,104.05,3,2,3,0,36,12,1,0,0,2,0,2,0,3,1,0,1,0,0,0,0,0,0,0,0,carpet,low,mid aged,signature global park 4,sohna
+1.0,116.13,2,2,2,0,81,15,3,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,1,super built up,mid,new,vipul lavanya,gurgaon
+0.9,240.43,3,3,3,1,1,10,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,super built up,high,old,hsiidc sidco aravali,manesar
+2.85,183.48,4,4,3,1,65,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,new,emaar mgf emerald floors premier,gurgaon
+1.5,124.21,2,3,3,1,66,15,2,0,0,0,2,0,2,8,0,0,0,0,0,0,0,0,0,0,0,super built up,low,new,ireo uptown,gurgaon
+2.33,117.15,2,2,3,0,65,11,1,0,0,1,0,2,0,2,1,0,1,1,0,1,0,0,0,0,0,super built up,high,under construction,m3m heights,gurgaon
+1.08,83.61204013377927,2,2,3,0,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,high,mid aged,godrej nature plus,sohna
+0.27,57.51,2,2,2,0,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,built up,high,new,hcbs sports ville,sohna
+1.1,218.32,3,2,3,0,92,11,1,0,0,0,0,0,2,1,0,0,0,1,0,0,1,0,0,0,0,built up,high,under construction,raheja navodaya,gurgaon
+1.2,102.19,2,3,0,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,built up,high,under construction,tulip violet,gurgaon
+1.38,196.95,3,4,2,1,85,15,1,0,0,1,0,0,0,6,1,0,1,0,0,0,0,1,0,0,0,super built up,mid,new,orris aster court premier,gurgaon
+11.25,369.75,4,5,3,1,48,9,1,0,0,1,0,1,0,3,1,0,1,0,0,0,0,1,0,0,0,carpet,low,new,central park resorts,gurgaon
+3.35,176.52,3,4,3,1,76,12,0,0,0,0,0,2,0,2,1,1,1,1,0,0,0,1,0,0,0,carpet,mid,under construction,whiteland the aspen,gurgaon
+4.25,349.59,3,5,2,1,112,8,2,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,super built up,high,new,experion windchants,gurgaon
+0.86,163.51,3,3,2,1,37,8,1,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,imperia the esfera,gurgaon
+0.92,125.42,2,2,2,1,88,7,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,low,new,vatika xpressions,gurgaon
+2.51,191.47,3,3,3,1,49,13,3,0,0,1,0,0,1,2,0,0,0,0,0,1,1,0,0,0,0,super built up,mid,old,orchid petals,gurgaon
+2.0,219.81,3,4,3,1,79,10,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,super built up,high,new,godrej 101,gurgaon
+6.0,609.91,5,6,3,0,113,12,1,0,0,1,0,1,0,3,1,0,2,2,0,0,0,0,0,0,0,carpet,high,old,tata gurgaon gateway,gurgaon
+1.05,194.63,4,4,3,1,84,3,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,super built up,low,new,antriksh heights,gurgaon
+0.65,120.77,2,2,2,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,high,old,shree vardhman flora,gurgaon
+0.45,528.8441,2,2,2,0,95,12,0,0,0,1,0,0,0,2,1,0,0,1,1,1,0,0,0,0,0,carpet,low,new,signature the roselia,gurgaon
+2.0,223.71,3,4,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,mid,new,ss the leaf,gurgaon
+1.6,146.6,3,3,2,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+1.9,180.42,3,4,3,1,102,15,0,0,0,2,0,1,0,2,1,1,1,1,0,1,0,0,0,1,0,super built up,high,new,conscient heritage max,gurgaon
+0.78,125.42,2,2,3,1,33,8,1,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,under construction,silverglades the melia,sohna
+4.25,422.99,4,5,3,1,48,15,2,1,0,2,0,1,2,3,1,0,1,0,1,0,1,0,0,0,0,super built up,high,old,bestech park view city,gurgaon
+6.0,408.77,4,3,3,1,50,15,4,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,super built up,mid,old,ss hibiscus,gurgaon
+1.75,169.55,3,3,2,0,85,8,1,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,built up,high,under construction,godrej air,gurgaon
+1.36,142.88,3,3,1,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+1.52,178.65,3,4,3,1,84,10,1,0,0,1,1,1,1,3,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,alpha corp gurgaonone 84,gurgaon
+0.6,69.68,3,2,2,0,107,10,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,built up,high,under construction,signature global solera,gurgaon
+3.3,222.97,3,3,3,1,33,15,3,0,0,0,0,2,0,4,1,0,0,0,0,1,0,1,0,0,0,carpet,low,new,central park flower valley,sohna
+1.05,114.27,2,2,2,0,68,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,1,0,0,super built up,high,new,m3m sierra 68,gurgaon
+4.8,268.95,3,4,3,1,53,15,0,0,0,1,0,1,0,2,1,0,1,0,0,0,0,0,2,0,0,super built up,high,new,parsvnath exotica,gurgaon
+1.95,172.06,3,3,3,0,102,13,1,0,0,1,1,0,0,2,1,0,0,1,0,1,0,0,1,0,0,super built up,high,new,shapoorji pallonji joyville gurugram,gurgaon
+1.3,136.57,2,2,2,1,79,9,1,0,0,1,0,1,0,2,0,0,0,1,0,1,0,0,0,1,0,super built up,mid,new,godrej aria,gurgaon
+1.19,155.24,2,2,3,0,85,14,5,0,0,0,0,2,3,0,0,0,0,0,0,0,1,0,0,0,0,super built up,high,new,ss,gurgaon
+5.31,440.27,4,6,3,1,112,8,2,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,super built up,high,new,experion windchants,gurgaon
+0.5,120.77,2,2,0,0,1,8,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,built up,mid,under construction,eden landmark,manesar
+0.5,65.03,3,3,2,0,37,12,1,0,0,1,0,1,0,2,1,1,0,1,0,1,0,0,1,0,0,carpet,low,mid aged,signature global the millennia 3,gurgaon
+2.8,153.29,3,3,2,1,65,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,super built up,low,new,emaar mgf emerald floors premier,gurgaon
+0.36,50.73,2,2,1,0,79,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,built up,mid,new,supertech basera,gurgaon
+1.6,171.68,4,4,3,1,70,12,0,0,0,1,0,1,0,2,1,1,1,0,0,0,0,1,0,0,0,super built up,low,new,bptp astaire gardens,gurgaon
+1.4,145.67,3,3,1,1,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+2.48,205.97,3,3,3,1,113,8,1,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,la vida by tata housing,gurgaon
+1.25,134.71,3,4,3,1,77,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,carpet,low,new,emaar mgf palm hills,gurgaon
+0.95,124.49,3,3,3,0,83,15,0,0,0,0,0,0,3,4,1,0,0,0,0,0,0,0,0,0,0,carpet,low,old,mapsko paradise,gurgaon
+0.35,61.13,2,2,2,0,33,14,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,1,0,0,built up,high,new,breez global hill view,sohna
+1.4,139.35,2,2,3,0,33,8,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,high,under construction,godrej nature plus,sohna
+1.14,162.67,3,3,3,0,33,7,1,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,eldeco accolade,sohna
+0.54,83.61,2,2,1,0,7,50,34,0,0,0,0,0,5,2,0,0,0,0,0,0,1,0,0,0,1,carpet,low,new,"m m residency, krishna colony, gurgaon",gurgaon
+0.98,150.5,3,3,3,1,71,15,2,1,0,0,0,2,1,0,1,0,0,0,0,1,0,2,0,0,0,super built up,high,old,chd avenue 71,gurgaon
+0.54,69.21,2,1,3,0,33,8,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,carpet,low,new,signature global park,sohna
+4.26,301.93,4,4,0,0,28,45,8,0,0,0,0,1,10,0,0,0,8,0,0,0,2,1,0,0,2,built up,high,under construction,unitech heritage city,gurgaon
+0.22,65.03,1,1,1,0,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,carpet,low,new,hcbs sports ville,sohna
+1.1,181.16,3,3,3,0,79,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,carpet,low,new,supertech araville,gurgaon
+6.15,312.43,3,3,3,1,65,9,1,0,0,1,0,1,0,2,1,0,1,0,0,1,0,1,0,0,0,super built up,high,old,m3m golfestate,gurgaon
+0.32,48.22,2,2,2,0,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,carpet,low,new,hcbs sports ville,sohna
+2.55,199.74,3,3,3,1,70,11,1,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,super built up,high,new,aipl the peaceful homes,gurgaon
+1.85,199.74,3,3,3,1,89,6,1,0,0,1,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,high,new,ats marigold,gurgaon
+3.5,204.48,3,3,2,1,66,14,1,0,0,0,0,2,0,2,1,0,1,0,0,0,0,0,1,0,0,super built up,mid,new,emaar mgf the palm drive,gurgaon
+0.92,169.55,3,3,3,1,84,3,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,super built up,low,new,antriksh heights,gurgaon
+3.78,213.21,3,3,3,0,59,15,1,0,0,1,0,2,0,3,1,1,1,0,0,0,0,0,0,0,0,carpet,low,mid aged,conscient elevate,gurgaon
+0.95,142.14,2,2,3,1,79,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,super built up,mid,new,supertech araville,gurgaon
+1.17,161.74,2,3,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
+1.6,210.15,3,3,3,1,80,10,4,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,super built up,mid,old,godrej frontier,gurgaon
+0.32,48.68,2,2,2,0,99,15,1,0,0,0,0,0,2,3,0,1,0,1,1,0,1,0,1,1,0,super built up,low,new,pareena laxmi apartments,gurgaon
+1.35,120.77,3,2,2,0,33,15,3,0,0,0,0,2,0,4,1,0,0,0,0,1,0,1,0,0,0,carpet,low,new,central park flower valley,sohna
+0.32,63.82,2,2,1,0,99,8,1,0,0,2,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,prime habitat,gurgaon
+2.45,227.61,3,4,3,1,104,13,1,0,0,1,0,3,0,3,1,1,1,1,0,1,0,0,0,0,0,super built up,high,new,puri emerald bay,gurgaon
+1.45,168.15,3,3,3,1,81,9,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,super built up,high,new,bestech park view ananda,gurgaon
+1.8,178.84,3,3,3,1,70,12,0,0,0,1,0,1,0,2,1,1,1,0,0,0,0,1,0,0,0,built up,low,new,bptp astaire gardens,gurgaon
+4.7,221.11,3,3,3,1,65,8,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,super built up,high,new,m3m latitude,gurgaon
+1.2,171.41,3,4,2,1,1,10,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,super built up,mid,new,dlf express greens,manesar
+1.35,120.77,3,2,2,1,56,47,6,0,0,0,1,1,13,0,0,0,4,0,1,0,2,1,0,0,4,super built up,low,old,rail vihar cghs,gurgaon
+3.5,190.82,3,3,3,1,65,9,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,carpet,high,new,m3m skycity,gurgaon
+0.64,126.35,2,2,1,0,86,4,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,built up,low,new,ansal heights 86,gurgaon
+2.05,188.13,3,4,3,1,102,10,1,0,0,1,0,0,0,2,1,1,0,1,0,1,0,0,0,1,0,carpet,high,new,emaar imperial gardens,gurgaon
+1.1,192.96,3,4,3,1,77,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,super built up,high,new,umang winter hills,gurgaon
+3.2,243.87,4,4,3,1,72,10,1,0,0,0,0,2,0,2,0,0,1,0,0,1,0,0,0,0,0,super built up,high,old,tata primanti,gurgaon
+3.4,219.07,3,4,3,1,67,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,1,0,0,super built up,high,new,m3m merlin,gurgaon
+0.86,240.43,3,3,3,1,1,11,5,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,super built up,low,old,hsiidc sidco aravali,manesar
+1.12,166.3,3,4,2,1,82,10,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,super built up,mid,new,mapsko royale ville,gurgaon
+1.75,129.6,3,3,3,1,65,8,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,super built up,high,new,emaar mgf emerald estate,gurgaon
+0.99,168.62,3,3,1,1,37,8,1,0,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,imperia the esfera,gurgaon
+1.1,138.43,3,3,3,1,79,9,0,0,0,1,0,0,0,2,1,0,1,1,0,0,0,0,0,0,0,super built up,high,new,mapsko mount ville,gurgaon
+0.26,27.96,1,1,2,0,104,9,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,built up,mid,new,zara aavaas,gurgaon
+1.35,140.28,4,3,3,1,106,11,1,0,0,1,0,1,0,2,1,0,1,1,0,1,0,0,0,0,0,carpet,high,old,paras dews,gurgaon
+4.85,174.19,3,4,3,1,54,15,4,0,0,0,2,0,1,5,0,0,1,0,0,0,0,1,0,0,0,super built up,high,new,dlf park place,gurgaon
+2.09,261.24,4,4,3,1,85,8,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,super built up,high,new,ss,gurgaon
+3.4,269.42,4,4,3,0,41,49,3,0,0,0,1,1,13,2,0,0,1,0,2,0,0,0,0,0,3,built up,low,under construction,south city 1 floors,gurgaon
+0.7,120.77,2,2,3,1,90,10,1,0,0,1,0,1,0,3,1,0,0,1,0,1,0,0,0,0,0,super built up,high,new,shree vardhman flora,gurgaon
+0.9,126.35,2,2,3,1,81,13,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,3,super built up,high,new,bestech park view ananda,gurgaon
+2.65,153.29,3,3,3,1,65,6,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,carpet,mid,new,emaar mgf emerald floors premier,gurgaon
+1.0,124.49,2,2,2,0,77,10,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,0,0,carpet,low,new,umang winter hills,gurgaon
+4.3,288.0,4,5,3,1,48,43,11,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,carpet,mid,new,vipul world floors,gurgaon
+0.35,44.87,2,2,2,0,84,15,2,0,0,0,0,0,1,5,1,0,0,1,1,1,0,0,0,0,0,carpet,mid,new,pivotal devaan,gurgaon
+2.9,190.17,3,3,3,1,67,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,1,0,0,super built up,high,new,m3m merlin,gurgaon
+1.28,112.88,2,2,3,0,102,13,1,0,0,1,1,0,0,2,1,0,0,1,0,1,0,0,1,0,0,super built up,high,new,shapoorji pallonji joyville gurugram,gurgaon
+1.4,127.83,3,3,2,1,50,44,12,0,0,0,2,3,8,2,0,0,0,0,0,0,1,0,1,0,1,super built up,high,new,eros wembley estate,gurgaon
+1.55,185.81,3,3,3,1,56,46,5,0,0,0,1,2,14,0,0,0,3,0,1,0,2,1,0,0,4,super built up,mid,old,professors enclave cghs,gurgaon
+1.24,106.84,2,2,3,1,28,45,5,0,0,0,1,0,8,1,0,0,3,0,1,0,2,0,0,0,4,super built up,high,old,dlf regency park 1,gurgaon
+1.45,176.52,3,3,3,0,56,43,5,0,0,0,1,2,14,4,0,0,3,0,1,0,2,1,0,0,4,super built up,low,old,kanchanjanga tower,gurgaon
+1.0,78.97,1,1,1,0,49,43,7,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,built up,high,under construction,element one service,gurgaon
+3.0,181.16,3,3,2,1,66,14,1,0,0,0,0,2,0,2,1,0,1,0,0,0,0,0,1,0,0,super built up,high,new,emaar mgf the palm drive,gurgaon
+1.1,184.88,3,3,3,0,37,15,1,1,0,0,0,1,3,3,0,0,0,0,0,0,1,0,1,0,0,built up,high,under construction,ramprastha the edge towers,gurgaon
+1.7,186.74,4,4,2,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,mid,new,tulip violet,gurgaon
+3.9,213.21,3,1,0,0,59,15,1,0,0,1,0,2,0,3,1,1,1,0,0,0,0,0,0,0,0,built up,low,under construction,conscient elevate,gurgaon
+0.49,55.93,2,2,1,1,107,10,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,super built up,high,new,signature global solera,gurgaon
+1.51,178.37,3,4,3,1,2,10,1,0,0,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,high,old,bestech park view residency,gurgaon
+4.85,184.23,3,4,3,1,54,15,4,0,0,0,2,0,1,5,0,0,1,0,0,0,0,1,0,0,0,super built up,mid,old,dlf park place,gurgaon
+7.0,292.64,4,3,2,1,28,11,2,0,0,2,0,0,0,3,1,0,1,0,0,0,0,1,0,0,0,super built up,high,old,suncity platinum towers,gurgaon
+1.13,160.72,3,3,3,1,90,14,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,dlf regal gardens,gurgaon
+0.35,53.51,2,2,2,0,33,6,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,0,0,super built up,high,new,gls arawali homes,sohna
+1.5,179.21,3,3,3,1,86,10,0,0,0,1,0,0,0,3,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,dlf the skycourt,gurgaon
+0.4,57.88,2,2,2,0,33,47,19,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,built up,mid,under construction,breeze global heights,gurgaon
+0.88,126.44,2,2,3,0,103,18,7,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,1,super built up,low,new,ansal housing highland park,gurgaon
+1.05,163.97,3,3,3,0,76,4,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,super built up,mid,new,corona gracieux,gurgaon
+0.25,55.74,1,1,1,0,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,built up,high,new,hcbs sports ville,sohna
+3.4,315.87,4,5,3,1,110,15,1,0,0,1,1,0,0,3,1,1,1,2,0,0,0,0,0,0,0,super built up,low,new,indiabulls enigma,gurgaon
+1.25,163.32,3,3,3,1,108,9,1,0,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,super built up,low,new,experion the heartsong,gurgaon
+1.7,212.66,3,4,3,1,79,11,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,1,0,super built up,mid,new,godrej aria,gurgaon
+1.58,106.84,2,2,2,1,61,9,1,0,0,1,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0,carpet,low,new,smart world orchard,gurgaon
+0.96,125.51,2,2,3,0,79,11,1,0,0,1,0,1,0,2,1,0,0,1,0,0,0,0,0,1,0,super built up,high,new,godrej aria,gurgaon
+0.21,28.06,1,1,1,0,92,4,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,carpet,high,new,gls avenue 51,gurgaon
+9.0,145.39,3,3,0,0,70,4,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,built up,mid,under construction,unitech vistas,gurgaon
+1.5,205.69,3,2,3,0,57,45,7,0,0,0,0,0,13,5,0,0,0,0,1,0,2,0,1,0,4,carpet,low,old,ansal sushant residency,gurgaon
+1.26,145.39,2,2,3,1,2,10,1,0,0,1,1,0,0,2,1,1,1,0,0,0,0,0,0,0,0,super built up,mid,old,bestech park view residency,gurgaon
+2.99,185.81,3,3,3,1,66,14,1,0,0,0,0,2,0,2,1,0,1,0,0,0,0,0,1,0,0,super built up,mid,new,emaar mgf the palm drive,gurgaon
+2.35,222.97,4,4,3,1,70,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,carpet,high,old,tulip ivory,gurgaon
+1.05,178.37,3,3,3,0,37,29,23,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,super built up,mid,new,piedmont taksila heights,gurgaon
+1.4,125.33,2,2,2,0,102,13,1,0,0,1,1,0,0,2,1,0,0,1,0,1,0,0,1,0,0,super built up,high,new,shapoorji pallonji joyville gurugram,gurgaon
+2.0,186.74,4,4,2,0,69,10,1,0,0,1,0,1,0,2,1,0,0,0,0,1,0,0,0,0,0,super built up,high,new,tulip violet,gurgaon
+0.38,598.4069999999999,3,2,1,0,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
+0.85,117.15,3,2,2,0,92,49,5,0,0,0,1,1,8,3,0,0,2,0,0,0,0,1,0,0,6,built up,high,under construction,sare green parc,gurgaon
+1.32,144.0,2,2,2,0,104,13,1,0,0,1,0,3,0,3,1,1,1,1,0,1,0,0,0,0,0,super built up,high,new,puri emerald bay,gurgaon
+2.5,292.64,4,4,3,1,104,13,1,0,0,1,0,2,0,3,1,0,1,1,0,1,0,1,0,0,0,super built up,high,new,ats triumph,gurgaon
+1.42,222.04,4,4,3,1,83,10,0,0,0,1,0,0,0,2,1,0,1,2,0,0,0,0,0,0,0,super built up,mid,new,vatika gurgaon 21,gurgaon
+1.17,162.02,3,3,3,0,90,14,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,super built up,high,new,dlf regal gardens,gurgaon
+1.65,223.71,3,4,3,1,85,13,1,0,0,1,0,1,0,2,1,0,0,1,0,1,0,0,0,1,0,super built up,high,new,ss the leaf,gurgaon
+2.2,159.51,3,4,3,1,63,6,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,super built up,high,old,dhoot time residency,gurgaon
+0.38,599.4939999999999,2,2,2,1,95,14,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,2,0,0,1,carpet,high,new,rof ananda,gurgaon
+1.9,199.74,3,4,2,1,79,10,1,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,carpet,high,new,bestech altura,gurgaon
+1.43,184.88,3,3,3,1,37,13,0,0,0,1,0,1,0,3,1,1,0,1,0,1,0,0,0,0,0,super built up,low,new,corona optus,gurgaon
+1.25,183.95,3,3,2,1,83,10,0,0,0,1,0,0,0,2,1,0,1,2,0,0,0,0,0,0,0,super built up,high,old,vatika gurgaon 21,gurgaon
+0.24,38.28,1,1,1,0,36,15,9,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,carpet,high,new,breez global heights,gurgaon
+2.6,153.29,3,3,3,0,65,46,13,0,0,0,2,1,10,1,0,0,0,0,0,0,2,0,1,0,0,carpet,low,under construction,emaar mgf emerald floors,gurgaon
+5.0,268.95,3,4,3,1,53,15,0,0,0,1,0,1,0,2,1,0,1,0,0,0,0,0,2,0,0,super built up,high,new,parsvnath exotica,gurgaon
