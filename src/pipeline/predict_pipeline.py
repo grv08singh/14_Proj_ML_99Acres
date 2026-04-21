@@ -11,61 +11,105 @@ class PredictPipeline:
 
 class CustomData:
     def __init__(self,
-                 sector: int,
-                 bhk: int,
-                 bathroom: int,
-                 balcony: int,
-                 area_sqm: float,
-                 society: str,
-                 near_hospital: bool,
-                 near_school: bool,
-                 near_market: bool,
-                 near_park: bool,
-                 near_mall: bool,
-                 near_petrol_pump: bool,
-                 near_temple_or_church: bool,
-                 near_bank_or_atm: bool,
-                 near_institute: bool,
-                 near_metro: bool,
-                 near_rly_stn: bool,
-                 near_airport: bool,
-                 near_restaurant_or_cafe: bool,
-                 near_club: bool):
+                    area_sqm: float,
+                    bhk: int,
+                    bathroom: int,
+                    balcony: int,
+                    addl_room: int,
+                    sector: int,
+                    landmark_count: int,
+                    has_hospital_or_clinic: bool,
+                    has_police_stn: bool,
+                    has_fire_stn: bool,
+                    has_mall: bool,
+                    has_market: bool,
+                    has_park: bool,
+                    has_bank_or_atm: bool,
+                    has_institute: bool,
+                    has_airport: bool,
+                    has_rly_stn: bool,
+                    has_metro_stn: bool,
+                    has_expy: bool,
+                    has_petrol_pump: bool,
+                    has_hotel: bool,
+                    has_temple_or_church: bool,
+                    has_famous_chowk: bool,
+                    has_club: bool,
+                    has_stadium: bool,
+                    has_restro_cafe: bool,
+                    area_type: bool,
+                    floor_rise: str,
+                    age: str,
+                    society: str,
+                    city: str):
 
-        self.sector = sector
+        self.area_sqm = area_sqm
         self.bhk = bhk
         self.bathroom = bathroom
         self.balcony = balcony
-        self.area_sqm = area_sqm
+        self.addl_room = addl_room
+        self.sector = sector
+        self.landmark_count = landmark_count
+        self.has_hospital_or_clinic = has_hospital_or_clinic
+        self.has_police_stn = has_police_stn
+        self.has_fire_stn = has_fire_stn
+        self.has_mall = has_mall
+        self.has_market = has_market
+        self.has_park = has_park
+        self.has_bank_or_atm = has_bank_or_atm
+        self.has_institute = has_institute
+        self.has_airport = has_airport
+        self.has_rly_stn = has_rly_stn
+        self.has_metro_stn = has_metro_stn
+        self.has_expy = has_expy
+        self.has_petrol_pump = has_petrol_pump
+        self.has_hotel = has_hotel
+        self.has_temple_or_church = has_temple_or_church
+        self.has_famous_chowk = has_famous_chowk
+        self.has_club = has_club
+        self.has_stadium = has_stadium
+        self.has_restro_cafe = has_restro_cafe
+        self.area_type = area_type
+        self.floor_rise = floor_rise
+        self.age = age
         self.society = society
-        self.near_hospital = near_hospital
-        self.near_school = near_school
-        self.near_market = near_market
-        self.near_park = near_park
-        self.near_mall = near_mall
-        self.near_petrol_pump = near_petrol_pump
-        self.near_temple_or_church = near_temple_or_church
-        self.near_bank_or_atm = near_bank_or_atm
-        self.near_institute = near_institute
-        self.near_metro = near_metro
-        self.near_rly_stn = near_rly_stn
-        self.near_airport = near_airport
-        self.near_restaurant_or_cafe = near_restaurant_or_cafe
-        self.near_club = near_club
+        self.city = city
 
 
     def get_data_as_dataframe(self):
         try:
             custom_data_input_dict = {
-                "area_type": [self.area_type],
-                "availability": [self.availability],
-                "location": [self.location],
-                "society": [self.society],
-                "size": [self.size],
-                "total_sqft": [self.total_sqft],
-                "bath": [self.bath],
+                "area_sqm": [self.area_sqm],
+                "bhk": [self.bhk],
+                "bathroom": [self.bathroom],
                 "balcony": [self.balcony],
-                "price": [self.price]
+                "addl_room": [self.addl_room],
+                "sector": [self.sector],
+                "landmark_count": [self.landmark_count],
+                "has_hospital_or_clinic": [self.has_hospital_or_clinic],
+                "has_police_stn": [self.has_police_stn],
+                "has_fire_stn": [self.has_fire_stn],
+                "has_mall": [self.has_mall],
+                "has_market": [self.has_market],
+                "has_park": [self.has_park],
+                "has_bank_or_atm": [self.has_bank_or_atm],
+                "has_institute": [self.has_institute],
+                "has_airport": [self.has_airport],
+                "has_rly_stn": [self.has_rly_stn],
+                "has_metro_stn": [self.has_metro_stn],
+                "has_expy": [self.has_expy],
+                "has_petrol_pump": [self.has_petrol_pump],
+                "has_hotel": [self.has_hotel],
+                "has_temple_or_church": [self.has_temple_or_church],
+                "has_famous_chowk": [self.has_famous_chowk],
+                "has_club": [self.has_club],
+                "has_stadium": [self.has_stadium],
+                "has_restro_cafe": [self.has_restro_cafe],
+                "area_type": [self.area_type],
+                "floor_rise": [self.floor_rise],
+                "age": [self.age],
+                "society": [self.society],
+                "city": [self.city]
             }
 
             return pd.DataFrame(custom_data_input_dict)
