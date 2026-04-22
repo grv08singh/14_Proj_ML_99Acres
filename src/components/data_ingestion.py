@@ -31,6 +31,8 @@ class DataIngestion:
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
 
             df.to_csv(self.ingestion_config.raw_data_path, index=False, header=True)
+
+            df[['sector','society']].sort_values('sector').drop_duplicates().reset_index(drop=True).to_csv("artifacts/sector_society.csv")
             
             logging.info("Train test split initiated")
             train_set, test_set = train_test_split(df, test_size=0.2, random_state=42)
@@ -49,11 +51,14 @@ class DataIngestion:
             raise CustomException(e, sys)
         
 if __name__ == "__main__":
+    #creating data ingestion path
     obj = DataIngestion()
     train_data, test_data = obj.initiate_data_ingestion()
 
+    #loading and transforming data
     data_transformation = DataTransformation()
     train_arr, test_arr, _ = data_transformation.initiate_data_transformation(train_data, test_data)
 
+    #training model
     modeltrainer = ModelTrainer()
     print(modeltrainer.initiate_model_trainer(train_arr, test_arr))
