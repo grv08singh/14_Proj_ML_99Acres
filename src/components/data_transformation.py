@@ -29,8 +29,8 @@ class DataTransformation:
         4. Return the preprocessor object.
         '''
         try:
-            numerical_columns = ['area_sqm','bhk','bathroom','balcony','addl_room','sector','landmark_count','has_hospital_or_clinic','has_police_stn','has_fire_stn','has_mall','has_market','has_park','has_bank_or_atm','has_institute','has_airport','has_rly_stn','has_metro_stn','has_expy','has_petrol_pump','has_hotel','has_temple_or_church','has_famous_chowk','has_club','has_stadium','has_restro_cafe']
-            categorical_columns = ['area_type','floor_rise','age','society','city']
+            numerical_columns = ['area_sqm','bedroom','bathroom','balcony','addl_room','landmark_count','has_hospital_or_clinic','has_police_stn','has_fire_stn','has_mall','has_market','has_park','has_bank_or_atm','has_institute','has_airport','has_rly_stn','has_metro_stn','has_expy','has_petrol_pump','has_hotel','has_temple_or_church','has_famous_chowk','has_club','has_stadium','has_restro_cafe']
+            categorical_columns = ['area_type','sector','floor_rise','age','society','city']
 
             num_pipeline = Pipeline(steps=[
                 ('imputer', SimpleImputer(strategy='median')),
