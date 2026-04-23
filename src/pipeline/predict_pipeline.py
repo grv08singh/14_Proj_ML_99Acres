@@ -3,22 +3,12 @@ import os
 from src.exception import CustomException
 from src.logger import logging
 from src.utils import load_object
+from src.utils import reorder_df
 import pandas as pd
 
 class PredictPipeline:
     def __init__(self):
         pass
-
-    def reorder_df(self, unordered_df):
-        logging.info("Reordering columns of the unordered df.")
-        train_df_path = os.path.join('artifacts', 'train.csv')
-
-        train_df = pd.read_csv(train_df_path)
-        col_order = [c for c in train_df.columns if c != 'price_cr']
-        ordered_df = unordered_df.reindex(columns=col_order).reset_index(drop=True)
-
-        logging.info("Columns have been reordered.")
-        return ordered_df
     
     def predict(self, unordered_df):
         logging.info("Entering predict method of PredictPipeline class")
@@ -41,14 +31,13 @@ class PredictPipeline:
 
         # user_query_point is an unordered df which can't be read by the model.
         # We need to reorder its features just like the training df.
-        ordered_df = self.reorder_df(unordered_df)
+        ordered_df = reorder_df(unordered_df)
 
         try:
             preprocessor_path = os.path.join('artifacts', 'preprocessor.pkl')
             model_path = os.path.join('artifacts', 'pred_model.pkl')
 
             preprocessor = load_object(preprocessor_path)
-            logging.info("------------------------------------04")
             model = load_object(model_path)
 
             df_scaled = preprocessor.transform(ordered_df)

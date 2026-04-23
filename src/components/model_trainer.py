@@ -119,36 +119,9 @@ class ModelTrainer:
                 test_array[:, -1],
             )
 
-
-
-    df = pd.read_csv("artifacts/data.csv")
-    
-    # Select features for KNN
-    features = ['bedroom', 'area_sqm', 'price_cr']
-    
-    # Prepare data
-    X = df[features].copy()
-    user_features = user_query_df[['bedroom', 'area_sqm']].copy()
-    user_features['price_cr'] = 0  # Placeholder
-    
-    # Scale features
-    scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(X)
-    user_scaled = scaler.transform(user_features)
-    
-    # KNN model
-    knn = NearestNeighbors(n_neighbors=3, metric='euclidean')
-    knn.fit(X_scaled)
-    
-    # Find similar properties
-    distances, indices = knn.kneighbors(user_scaled)
-
-
-
-
             # Using Random Forest for recommendation system
-            knn_model = RandomForestRegressor(n_estimators=100, random_state=42)
-            knn_model.fit(X_train, y_train)
+            rf_model = RandomForestRegressor(n_estimators=100, random_state=42)
+            rf_model.fit(X_train, y_train)
 
             save_object(
                 file_path=self.model_trainer_config.recommendation_model_file_path,
@@ -161,4 +134,4 @@ class ModelTrainer:
 
         except Exception as e:
             logging.error("Error occurred while saving recommendation model: %s", str(e))
-            raise CustomException(e, sys
+            raise CustomException(e, sys)

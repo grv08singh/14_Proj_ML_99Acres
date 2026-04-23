@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from src.pipeline.predict_pipeline import PredictPipeline
+from src.pipeline.recommend_pipeline import RecommendationPipeline
 from sklearn.neighbors import NearestNeighbors
 from sklearn.preprocessing import StandardScaler
 
@@ -86,22 +87,33 @@ def price_prediction():
         pp=PredictPipeline()
         price_lower, price_upper = pp.predict(user_query_df)
         st.subheader(f"Predicted Price:  INR {round(float(price_lower), 2)} - {round(float(price_upper), 2)} crore")
+        st.subheader("")
         
         # Show similar properties
-        recommend_more(user_query_df)
+        recommendation_system(user_query_df)
 
-def recommend_more(user_query_df):
-    
-    st.subheader("Similar Properties:")
-    for i, idx in enumerate(indices[0]):
-        prop = df.iloc[idx]
-        st.write(f"**{i+1}. {prop['society']}** - {prop['sector']}")
-        st.write(f"   {int(prop['bedroom'])} BHK, {prop['area_sqm']:.0f} sqm, ₹{prop['price_cr']:.2f} Cr")
-        st.write("")
+def recommendation_system(user_query_df):
+    st.subheader("Recommended Similar Properties:")
+    rp = RecommendationPipeline()
+    cos_similar, knn_similar = rp.get_similar_records(user_query_df, n_recommendations=3)
 
-
-
-
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        st.subheader("Cosine Similar Properties:")
+        st.subheader("")
+        for i, row in cos_similar.iterrows():
+            st.markdown(f"{row['bedroom']} BHK having {row['area_sqm']} sq.m area in")
+            st.markdown(f"**{row['society']}**")
+            st.markdown(f"{row['sector']}, Gurgaon")
+            st.subheader("")
+    with col2:
+        st.subheader("KNN Similar Properties:")
+        st.subheader("")
+        for i, row in knn_similar.iterrows():
+            st.markdown(f"{row['bedroom']} BHK having {row['area_sqm']} sq.m area in")
+            st.markdown(f"**{row['society']}**")
+            st.markdown(f"{row['sector']}, Gurgaon")
+            st.subheader("")
 
 
 def overall_analysis():
@@ -112,13 +124,10 @@ def main():
     st.set_page_config(layout='wide',page_title='Real Estate Project',page_icon='🏠')
     st.title('Real Estate - Machine Learning Project')
     st.sidebar.title('Gurgaon City')
-    option = st.sidebar.segmented_control("Select One:", ['Price Prediction', 'Recommendation System', 'Analytics'])
+    option = st.sidebar.segmented_control("Select One:", ['Price Prediction', 'Analytics'])
 
     if option == 'Price Prediction':
         price_prediction()
-    elif option == 'Recommendation System':
-        st.title('Gurgaon Real Estate Recommendation System')
-        recommendation_system()
     elif option == 'Analytics':
         st.title('Gurgaon Real Estate Analytics')
         overall_analysis()

@@ -55,3 +55,14 @@ def evaluate_models(X_train, y_train, X_test, y_test, models, params):
     except Exception as e:
         logging.error("Error occurred during model evaluation: %s", str(e))
         raise CustomException(e, sys)
+
+def reorder_df(unordered_df):
+    logging.info("Reordering columns of the unordered df.")
+    train_df_path = os.path.join('artifacts', 'train.csv')
+
+    train_df = pd.read_csv(train_df_path)
+    col_order = [c for c in train_df.columns if c != 'price_cr']
+    ordered_df = unordered_df.reindex(columns=col_order).reset_index(drop=True)
+
+    logging.info("Columns have been reordered.")
+    return ordered_df
