@@ -16,13 +16,15 @@ from catboost import CatBoostRegressor
 
 @dataclass
 class ModelTrainerConfig:
-    trained_model_file_path: str = os.path.join("artifacts", "model.pkl")
+    trained_model_file_path: str = os.path.join("artifacts", "pred_model.pkl")
+    trained_model_error_path: str = os.path.join("artifacts", "pred_model_error.txt")
 
 class ModelTrainer:
     def __init__(self):
         self.model_trainer_config = ModelTrainerConfig()
 
     def initiate_model_trainer(self, train_array, test_array):
+        logging.info("Entered the initiate_model_trainer method of ModelTrainer class")
         try:
             logging.info("Splitting training and testing input data")
             X_train, y_train, X_test, y_test = (
@@ -50,37 +52,27 @@ class ModelTrainer:
                     'metric': ['euclidean', 'manhattan']
                 },
                 "Random Forest":{
-                    'n_estimators': [8,16,32,64,128,256],
+                    'n_estimators': [8,16,32,64,100,128,256],
                     'max_depth': [None, 5, 10, 20]
                 },
                 "SVR":{
                     'C': [0.1, 10, 70],
-                    'epsilon': [0.01, 0.14],
+                    'epsilon': [0.01, 0.1, 0.14],
                     'gamma': ['scale', 'auto', 0.06],
                     'kernel': ['rbf']
                 },
                 "Gradient Boosting":{
-                    'learning_rate':[.1,.01,.05],
-                    'subsample':[0.6,0.7,0.8,0.9],
+                    'learning_rate':[0.1,0.01,0.05],
+                    'subsample':[0.6,0.8,1],
                     'n_estimators': [8,16,32,64,128,256]
                 },
-                "AdaBoost":{
-                    'learning_rate':[.1,.01,0.05],
-                    'n_estimators': [8,16,32,64,128,256]
-                },
-                "XGB":{
-                    'learning_rate':[.1,.01,.05],
-                    'n_estimators': [8,16,32,64,128,256]
-                },
-                "CatBoost":{
-                    'depth': [None,6,8,10],
-                    'learning_rate': [None,0.01, 0.05, 0.1],
-                    'iterations': [None,30, 50, 100]
-                }
+                "AdaBoost":{},
+                "XGB":{},
+                "CatBoost":{}
             }
 
             model_report:dict = evaluate_models(X_train=X_train, y_train=y_train, X_test=X_test, y_test=y_test, models=models, params=params)
-
+            
             best_model_score = max(model_report.values())
             best_model_name = max(model_report, key=model_report.get)
             best_model = models[best_model_name]
@@ -96,8 +88,17 @@ class ModelTrainer:
             )
 
             predicted = best_model.predict(X_test)
-            r2_square = r2_score(y_test, predicted)
-            return r2_square
+            r2 = r2_score(y_test, predicted)
+
+            model_error = 1 - r2
+            with open(self.model_trainer_config.trained_model_error_path, 'w') as f:
+                f.write(str(model_error))
+
+            logging.info(f"Model error saved at: {self.model_trainer_config.trained_model_error_path}")
+
+            logging.info("Model training completed successfully")
+            logging.info("Exiting successfully the initiate_model_trainer method of ModelTrainer class")
+            return r2
 
         except Exception as e:
             logging.error("Error occurred during model training: %s", str(e))

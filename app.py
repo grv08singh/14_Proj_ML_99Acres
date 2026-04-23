@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from src.pipeline.predict_pipeline import PredictPipeline
+from sklearn.neighbors import NearestNeighbors
+from sklearn.preprocessing import StandardScaler
 
 def get_user_data():
     df = pd.read_csv("artifacts/data.csv")
@@ -82,15 +84,46 @@ def price_prediction():
 
     if st.button("Predict Price"):
         pp=PredictPipeline()
-        predicted_price=pp.predict(user_query_df)
-        st.subheader(f"Predicted Price: INR {round(float(predicted_price), 2)} crore")
+        price_lower, price_upper = pp.predict(user_query_df)
+        st.subheader(f"Predicted Price:  INR {round(float(price_lower), 2)} - {round(float(price_upper), 2)} crore")
+        
+        # Show similar properties
+        recommend_more(user_query_df)
 
-    st.subheader("Recommendations based on your input:")
-    recommendation_system(user_query_df)
+def recommend_more(user_query_df):
+    df = pd.read_csv("artifacts/data.csv")
+    
+    # Select features for KNN
+    features = ['bedroom', 'area_sqm', 'price_cr']
+    
+    # Prepare data
+    X = df[features].copy()
+    user_features = user_query_df[['bedroom', 'area_sqm']].copy()
+    user_features['price_cr'] = 0  # Placeholder
+    
+    # Scale features
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(X)
+    user_scaled = scaler.transform(user_features)
+    
+    # KNN model
+    knn = NearestNeighbors(n_neighbors=3, metric='euclidean')
+    knn.fit(X_scaled)
+    
+    # Find similar properties
+    distances, indices = knn.kneighbors(user_scaled)
+    
+    st.subheader("Similar Properties:")
+    for i, idx in enumerate(indices[0]):
+        prop = df.iloc[idx]
+        st.write(f"**{i+1}. {prop['society']}** - {prop['sector']}")
+        st.write(f"   {int(prop['bedroom'])} BHK, {prop['area_sqm']:.0f} sqm, ₹{prop['price_cr']:.2f} Cr")
+        st.write("")
 
-def recommendation_system(user_query_df):
-    # Implement recommendation logic here
-    pass
+
+
+
+
 
 def overall_analysis():
     st.title('Gurgaon Real Estate Analytics')

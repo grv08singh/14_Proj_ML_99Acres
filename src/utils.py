@@ -37,7 +37,7 @@ def evaluate_models(X_train, y_train, X_test, y_test, models, params):
         for model_name, model in models.items():
             param = params[model_name]
 
-            print(f"{model_name}: Applying GridSearchCV with parameters: {param}")
+            print(f"\n{model_name}: Applying GridSearchCV with parameters: {param}")
             gs = GridSearchCV(model, param, cv=5)
             gs.fit(X_train, y_train)
             print(f"Best parameters for {model_name}: \n{gs.best_params_}")

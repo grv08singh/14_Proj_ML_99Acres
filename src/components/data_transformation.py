@@ -21,6 +21,7 @@ class DataTransformation:
         self.data_transformation_config = DataTransformationConfig()
 
     def get_data_transformer_object(self):
+        logging.info("Entered the get_data_transformer_object method of DataTransformation class")
         '''
         This function is responsible for data transformation. It performs the following steps:
         1. Define numerical and categorical columns.
@@ -52,6 +53,9 @@ class DataTransformation:
                     ('cat_pipeline', cat_pipeline, categorical_columns)
                 ]
             )
+            
+            logging.info("Preprocessor object created successfully.")
+            logging.info("Succesfully exiting get_data_transformer_object method of DataTransformation class")
             return preprocessor
 
         except Exception as e:
@@ -59,6 +63,7 @@ class DataTransformation:
             raise CustomException(e, sys)
     
     def initiate_data_transformation(self, train_path, test_path):
+        logging.info("Entered the initiate_data_transformation method of DataTransformation class")
         try:
             train_df = pd.read_csv(train_path)
             test_df = pd.read_csv(test_path)
@@ -91,7 +96,7 @@ class DataTransformation:
                 obj=preprocessing_obj
             )
 
-
+            logging.info("Successfully exiting initiate_data_transformation method of DataTransformation class")
             return (
                 train_arr,
                 test_arr,
