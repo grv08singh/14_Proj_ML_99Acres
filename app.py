@@ -91,27 +91,6 @@ def price_prediction():
         recommend_more(user_query_df)
 
 def recommend_more(user_query_df):
-    df = pd.read_csv("artifacts/data.csv")
-    
-    # Select features for KNN
-    features = ['bedroom', 'area_sqm', 'price_cr']
-    
-    # Prepare data
-    X = df[features].copy()
-    user_features = user_query_df[['bedroom', 'area_sqm']].copy()
-    user_features['price_cr'] = 0  # Placeholder
-    
-    # Scale features
-    scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(X)
-    user_scaled = scaler.transform(user_features)
-    
-    # KNN model
-    knn = NearestNeighbors(n_neighbors=3, metric='euclidean')
-    knn.fit(X_scaled)
-    
-    # Find similar properties
-    distances, indices = knn.kneighbors(user_scaled)
     
     st.subheader("Similar Properties:")
     for i, idx in enumerate(indices[0]):
