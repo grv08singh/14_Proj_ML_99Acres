@@ -216,7 +216,7 @@ def data_analysis():
 
 def main():
     st.set_page_config(layout='wide',page_title='Real Estate Project',page_icon='🏠')
-    st.title('Real Estate - Machine Learning Project')
+    st.title('Machine Learning Project - Real Estate')
     st.sidebar.title('Gurgaon City')
     option = st.sidebar.pills("Select One:", ['Property Price Prediction', 'Gurgaon Property Analytics'])
 
