@@ -15,7 +15,7 @@ class RecommendationPipeline:
         pass
 
     def get_similar_records(self, unordered_df, n_recommendations=5):
-        logging.info("Recommendation pipeline started")  
+        logging.info("get_similar_records method of RecommendationPipeline class initiated.")  
 
         try:      
             
@@ -34,9 +34,18 @@ class RecommendationPipeline:
 
             #calculating cosine similarity
             similarities = cosine_similarity(df_scaled, X_train_scaled)[0]
-            top_indices = np.argsort(similarities)[-n_recommendations:][::-1]
+            sorted_indices = np.argsort(similarities)[::-1]
+            count = 0
+            alrdy_society = []
+            top_indices = []
+            while count < n_recommendations:
+                for index in sorted_indices:
+                    if X_train.loc[index, 'society'] not in alrdy_society:
+                        top_indices.append(index)
+                        alrdy_society.append(X_train.loc[index, 'society'])
+                        count += 1
+                        break
             cosine_similar = X_train.iloc[top_indices].copy()
-            cosine_similar['similarity_score'] = similarities[top_indices]
 
             #calculating KNN similarity
             model = NearestNeighbors(n_neighbors=n_recommendations, algorithm='ball_tree')
@@ -44,6 +53,7 @@ class RecommendationPipeline:
             _, indices = model.kneighbors(df_scaled)
             knn_similar = X_train.iloc[indices[0]].copy()
 
+            logging.info("get_similar_records method of RecommendationPipeline class completed.")
             return cosine_similar, knn_similar
 
         except Exception as e:
